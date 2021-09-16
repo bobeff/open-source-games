@@ -43,6 +43,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Ambermoon.net** - A full C# rewrite of Ambermoon. [[source]](https://github.com/Pyrdacor/Ambermoon.net)
 
+- **[Oolite](http://www.oolite.org)** - An open-world space opera. [[source]](http://www.oolite.org)
+
 - **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game **The Elder Scrolls III: Morrowind**. [[source]](https://github.com/OpenMW/openmw)
 
 ## Turn-based strategies

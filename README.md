@@ -8,6 +8,7 @@ This is a list of different open-source video games and commercial video games o
 - [Real-time strategies](#real-time-strategies)
 - [Role-playing games](#role-playing-games)
 - [Turn-based strategies](#turn-based-strategies)
+- [Other lists](#other-lists)
 
 ## Adventure games
 
@@ -56,3 +57,13 @@ This is a list of different open-source video games and commercial video games o
 - **[FreeOrion](https://www.freeorion.org/index.php/Main_Page)** - A free, open source, turn-based space empire and galactic conquest (4X) computer game. [[source]](https://github.com/freeorion/freeorion)
 
 - **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [[source]](https://github.com/wesnoth/wesnoth)
+
+## Other lists
+
+- **[Games on GitHub](https://github.com/leereilly/games)**
+
+- **[List of (interesting) FOSS game engine replacement projects](https://forum.openmw.org/viewtopic.php?p=57882)**
+
+- **[List of Open Source Games](https://trilarion.github.io/opensourcegames)**
+
+- **[Open Source Game Clones](https://osgameclones.com)**

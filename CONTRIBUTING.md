@@ -12,7 +12,7 @@
 
 * Make a separate pull request for each of the games.
 
-* Use the format `[Title](link_to_the_game_website) - Short description. [[source]](link-to-the-source-repository)`.
+* Use the format `**[Title](link_to_the_game_website)** - Short description. [[source]](link_to_the_source_repository)`.
 
 * Do not include trailing `/` character from the URL.
 

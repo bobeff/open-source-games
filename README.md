@@ -56,6 +56,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[FreeOrion](https://www.freeorion.org/index.php/Main_Page)** - A free, open source, turn-based space empire and galactic conquest (4X) computer game. [[source]](https://github.com/freeorion/freeorion)
 
+- **[OpenXcom](https://openxcom.org/)** - An open-source clone of the popular "**UFO: Enemy Unknown**" and "**X-COM: Terror From the Deep**" videogames by Micropros. [[source]](https://github.com/OpenXcom/OpenXcom)
+
 - **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [[source]](https://github.com/wesnoth/wesnoth)
 
 ## Other lists

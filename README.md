@@ -5,6 +5,7 @@ This is a list of different open-source video games and commercial video games o
 
 - [Adventure games](#adventure-games)
 - [First-person games](#first-person-games)
+- [Puzzle games](#puzzle-games)
 - [Real-time strategies](#real-time-strategies)
 - [Role-playing games](#role-playing-games)
 - [Turn-based strategies](#turn-based-strategies)
@@ -29,6 +30,10 @@ This is a list of different open-source video games and commercial video games o
 - **Quake III Arena** - [[source]](https://github.com/id-Software/Quake-III-Arena)
 
 - **Wolfenstein 3D** - [[source]](https://github.com/id-Software/wolf3d)
+
+## Puzzle games
+
+- **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
 ## Real-time strategies
 

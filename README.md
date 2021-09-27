@@ -4,6 +4,7 @@ This is a list of different open-source video games and commercial video games o
 ## Table of contents
 
 - [Adventure games](#adventure-games)
+- [Business and Tycoon Games](#business-and-tycoon-games)
 - [First-person games](#first-person-games)
 - [Puzzle games](#puzzle-games)
 - [Real-time strategies](#real-time-strategies)
@@ -14,6 +15,10 @@ This is a list of different open-source video games and commercial video games o
 ## Adventure games
 
 - **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
+
+## Business and Tycoon Games
+
+- **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon Transport Tycoon Deluxe. [[source]](https://github.com/OpenTTD/OpenTTD)
 
 ## First-person games
 

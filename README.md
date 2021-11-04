@@ -22,6 +22,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## First-person games
 
+- **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten)
+
 - **DOOM** - [[source]](https://github.com/id-Software/DOOM)
 
 - **Doom 3 BFG Edition** - [[source]](https://github.com/id-Software/DOOM-3-BFG)

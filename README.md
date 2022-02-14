@@ -43,6 +43,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **OpenGOAL** - This project is to port **Jak and Daxter 1** (NTSC, "black label" version) to PC. [[source]](https://github.com/water111/jak-project)
 
+- **[Sonic Robo Blast 2](https://www.srb2.org)** - a 3D open-source Sonic the Hedgehog fangame built on Doom. [[source]](https://git.do.srb2.org/STJr/SRB2)
+
 ## Puzzle games
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)

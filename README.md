@@ -4,7 +4,8 @@ This is a list of different open-source video games and commercial video games o
 ## Table of contents
 
 - [Adventure games](#adventure-games)
-- [Business and Tycoon Games](#business-and-tycoon-games)
+- [Business and Tycoon games](#business-and-tycoon-games)
+- [City-Building games](#city-building-games)
 - [First-person games](#first-person-games)
 - [Platformers](#platformers)
 - [Puzzle games](#puzzle-games)
@@ -17,9 +18,13 @@ This is a list of different open-source video games and commercial video games o
 
 - **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
 
-## Business and Tycoon Games
+## Business and Tycoon games
 
 - **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon Transport Tycoon Deluxe. [[source]](https://github.com/OpenTTD/OpenTTD)
+
+## City-Building games
+
+- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** -  A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
 
 ## First-person games
 

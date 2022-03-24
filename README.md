@@ -11,6 +11,7 @@ This is a list of different open-source video games and commercial video games o
 - [Puzzle games](#puzzle-games)
 - [Real-time strategies](#real-time-strategies)
 - [Role-playing games](#role-playing-games)
+- [Sport games](#sport-games)
 - [Turn-based strategies](#turn-based-strategies)
 - [Other lists](#other-lists)
 
@@ -75,6 +76,10 @@ This is a list of different open-source video games and commercial video games o
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
+
+## Sport games
+
+- **Open Golf** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
 
 ## Turn-based strategies
 

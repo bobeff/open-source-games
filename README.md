@@ -6,13 +6,14 @@ This is a list of different open-source video games and commercial video games o
 - [Adventure games](#adventure-games)
 - [Business and Tycoon games](#business-and-tycoon-games)
 - [City-Building games](#city-building-games)
-- [First-person games](#first-person-games)
+- [First-Person games](#first-person-games)
 - [Platformers](#platformers)
 - [Puzzle games](#puzzle-games)
-- [Real-time strategies](#real-time-strategies)
-- [Role-playing games](#role-playing-games)
+- [Real-Time strategies](#real-time-strategies)
+- [Role-Playing games](#role-playing-games)
 - [Sport games](#sport-games)
-- [Turn-based strategies](#turn-based-strategies)
+- [Third-Person games](#third-person-games)
+- [Turn-Based strategies](#turn-based-strategies)
 - [Other lists](#other-lists)
 
 ## Adventure games
@@ -29,7 +30,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** -  A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
 
-## First-person games
+## First-Person games
 
 - **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten)
 
@@ -61,7 +62,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
-## Real-time strategies
+## Real-Time strategies
 
 - **[0 A.D.](https://play0ad.com)** -  A free, open-source game of ancient warfare. [[source]](https://github.com/0ad/0ad)
 
@@ -71,7 +72,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
 
-## Role-playing games
+## Role-Playing games
 
 - **Ambermoon.net** - A full C# rewrite of Ambermoon. [[source]](https://github.com/Pyrdacor/Ambermoon.net)
 
@@ -87,7 +88,13 @@ This is a list of different open-source video games and commercial video games o
 
 - **Open Golf** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
 
-## Turn-based strategies
+## Third-Person games
+
+- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[soruce]](https://github.com/WolfireGames/lugaru)
+
+- **[Overgrowth](https://overgrowth.wolfire.com/)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
+
+## Turn-Based strategies
 
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 

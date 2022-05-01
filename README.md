@@ -117,3 +117,5 @@ This is a list of different open-source video games and commercial video games o
 - **[List of Open Source Games](https://trilarion.github.io/opensourcegames)**
 
 - **[Open Source Game Clones](https://osgameclones.com)**
+
+- **[Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)**

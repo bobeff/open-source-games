@@ -100,6 +100,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 
+- **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org) - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)
+
 - **[Freeciv](http://www.freeciv.org/)** - A Free and Open Source empire-building strategy game. [[source]](https://github.com/freeciv/freeciv)
 
 - **[FreeOrion](https://www.freeorion.org/index.php/Main_Page)** - A free, open source, turn-based space empire and galactic conquest (4X) computer game. [[source]](https://github.com/freeorion/freeorion)

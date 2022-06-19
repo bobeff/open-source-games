@@ -26,6 +26,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## City-Building games
 
+- **[Citybound](https://aeplay.org/citybound)** - A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals. [[source]](https://github.com/citybound/citybound)
+
 - **[Cytopia](https://cytopia.itch.io/cytopia)** - A free, open source retro pixel-art city building game. [[source]](https://github.com/CytopiaTeam/Cytopia)
 
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** -  A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
@@ -100,7 +102,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 
-- **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org) - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)
+- **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)
 
 - **[Freeciv](http://www.freeciv.org/)** - A Free and Open Source empire-building strategy game. [[source]](https://github.com/freeciv/freeciv)
 

@@ -112,6 +112,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [[source]](https://github.com/wesnoth/wesnoth)
 
+- **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of Civilization V. [[source]](https://github.com/yairm210/Unciv)
+
 ## Other lists
 
 - **[Games on GitHub](https://github.com/leereilly/games)**

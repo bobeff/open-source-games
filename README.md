@@ -52,6 +52,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Platformers
 
+- **[Commander Keen in Keen Dreams](https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams)** - A side-scrolling platform video game developed by id Software. [[source]](https://github.com/keendreams/keen)
+
 - **[DDraceNetwork](https://ddnet.tw)** - Cooperative 2D online platformer. [[source]](https://github.com/ddnet/ddnet)
 
 - **OpenGOAL** - This project is to port **Jak and Daxter 1** (NTSC, "black label" version) to PC. [[source]](https://github.com/water111/jak-project)

@@ -72,6 +72,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Dune II The Maker](https://dune2themaker.fundynamic.com)** - A Dune 2 remake. [[source]](https://github.com/stefanhendriks/Dune-II---The-Maker)
 
+- **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)
+
 - **[OpenRA](https://www.openra.net)** - Command & Conquer, Dune 2000 and Red Alert rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)
 
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)

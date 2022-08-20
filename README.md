@@ -65,6 +65,7 @@ This is a list of different open-source video games and commercial video games o
 ## Puzzle games
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
+- **[Spelling Bee](https://spelling-b.netlify.app)** - A free adaptation of the New York Times Spelling Bee. [[source]](https://github.com/ConorSheehan1/spelling-bee)
 
 ## Real-Time strategies
 

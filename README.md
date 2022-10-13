@@ -34,6 +34,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## First-Person games
 
+- **[Anarch](https://drummyfish.gitlab.io/anarch)** - This isn't a 90s style retro shooter, this is a 90s shooter. [[source]](https://gitlab.com/drummyfish/anarch)
+
 - **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten)
 
 - **DOOM** - [[source]](https://github.com/id-Software/DOOM)

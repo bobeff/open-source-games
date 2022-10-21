@@ -22,6 +22,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Business and Tycoon games
 
+- **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of RollerCoaster Tycoon 2. [[source]](https://github.com/OpenRCT2/OpenRCT2)
+
 - **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon Transport Tycoon Deluxe. [[source]](https://github.com/OpenTTD/OpenTTD)
 
 ## City-Building games

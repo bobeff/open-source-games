@@ -104,6 +104,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[soruce]](https://github.com/WolfireGames/lugaru)
 
+- **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine [[source]](https://github.com/XProger/OpenLara)
+
 - **[Overgrowth](https://overgrowth.wolfire.com/)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
 
 ## Turn-Based strategies

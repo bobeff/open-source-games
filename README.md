@@ -102,6 +102,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Third-Person games
 
+- **CroftEngine** - An open-source Tomb Raider 1 engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)
+
 - **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[soruce]](https://github.com/WolfireGames/lugaru)
 
 - **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine [[source]](https://github.com/XProger/OpenLara)

@@ -74,6 +74,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[0 A.D.](https://play0ad.com)** -  A free, open-source game of ancient warfare. [[source]](https://github.com/0ad/0ad)
 
+- **[BAR](https://www.beyondallreason.info)** - Beyond All Reason - in Alpha with active development and 100% playable [[source](https://github.com/beyond-all-reason/Beyond-All-Reason)]
+
 - **[Dune II The Maker](https://dune2themaker.fundynamic.com)** - A Dune 2 remake. [[source]](https://github.com/stefanhendriks/Dune-II---The-Maker)
 
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)

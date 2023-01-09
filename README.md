@@ -139,6 +139,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Games on GitHub](https://github.com/leereilly/games)**
 
+- **[Libre Game Wiki](https://libregamewiki.org)**
+
 - **[List of (interesting) FOSS game engine replacement projects](https://forum.openmw.org/viewtopic.php?p=57882)**
 
 - **[List of Open Source Games](https://trilarion.github.io/opensourcegames)**

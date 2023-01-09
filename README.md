@@ -89,6 +89,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[NetHack](https://nethack.org)** - Single player dungeon exploration game. [[source]](https://github.com/NetHack/NetHack)
 
+- **[Meritous](http://asceai.net/meritous)** - An action-adventure dungeon crawl game. [[source]](http://www.asceai.net/files/meritous_v12_src.tar.bz2)
+
 ## Role-Playing games
 
 - **Ambermoon.net** - A full C# rewrite of Ambermoon. [[source]](https://github.com/Pyrdacor/Ambermoon.net)

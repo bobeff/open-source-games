@@ -10,6 +10,7 @@ This is a list of different open-source video games and commercial video games o
 - [Platformers](#platformers)
 - [Puzzle games](#puzzle-games)
 - [Real-Time strategies](#real-time-strategies)
+- [Roguelikes](#roguelikes)
 - [Role-Playing games](#role-playing-games)
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
@@ -83,6 +84,10 @@ This is a list of different open-source video games and commercial video games o
 - **[OpenRA](https://www.openra.net)** - Command & Conquer, Dune 2000 and Red Alert rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)
 
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
+
+## Roguelikes
+
+- **[NetHack](https://nethack.org)** - Single player dungeon exploration game. [[source]](https://github.com/NetHack/NetHack)
 
 ## Role-Playing games
 

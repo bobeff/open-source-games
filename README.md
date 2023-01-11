@@ -97,6 +97,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [[source]](https://github.com/Interkarma/daggerfall-unity)
 
+- **[Kandria](https://kandria.com)** - An action RPG made in Common Lisp. [[source]](https://github.com/Shirakumo/Kandria) [[engine source]](https://github.com/Shirakumo/trial)
+
 - **[Oolite](http://www.oolite.org)** - An open-world space opera. [[source]](http://www.oolite.org)
 
 - **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game **The Elder Scrolls III: Morrowind**. [[source]](https://github.com/OpenMW/openmw)

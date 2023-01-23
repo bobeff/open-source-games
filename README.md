@@ -101,6 +101,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Oolite](http://www.oolite.org)** - An open-world space opera. [[source]](http://www.oolite.org)
 
+- **OpenEnroth** - Might and Magic VI-VIII engine remake using original data & code. [[source]](https://github.com/OpenEnroth/OpenEnroth)
+
 - **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game **The Elder Scrolls III: Morrowind**. [[source]](https://github.com/OpenMW/openmw)
 
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)

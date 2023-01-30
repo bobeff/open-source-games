@@ -89,6 +89,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Roguelikes
 
+- **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)
+
 - **[NetHack](https://nethack.org)** - Single player dungeon exploration game. [[source]](https://github.com/NetHack/NetHack)
 
 - **[Meritous](http://asceai.net/meritous)** - An action-adventure dungeon crawl game. [[source]](http://www.asceai.net/files/meritous_v12_src.tar.bz2)
@@ -128,8 +130,6 @@ This is a list of different open-source video games and commercial video games o
 ## Turn-Based strategies
 
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
-
-- **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)
 
 - **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game Colonization, and similar to Civilization. [[source]](https://github.com/FreeCol/freecol)
 

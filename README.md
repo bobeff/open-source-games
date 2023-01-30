@@ -21,6 +21,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
 
+- **Zelda 3** - A reverse engineered clone of Zelda 3 - A Link to the Past. [[source]](https://github.com/snesrev/zelda3)
+
 ## Business and Tycoon games
 
 - **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of RollerCoaster Tycoon 2. [[source]](https://github.com/OpenRCT2/OpenRCT2)

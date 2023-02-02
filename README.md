@@ -91,6 +91,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)
 
+- **[Dungeon Crawl Stone Soup](https://crawl.develz.org)** - An open source roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot. [[source]](https://github.com/crawl/crawl)
+
 - **[NetHack](https://nethack.org)** - Single player dungeon exploration game. [[source]](https://github.com/NetHack/NetHack)
 
 - **[Meritous](http://asceai.net/meritous)** - An action-adventure dungeon crawl game. [[source]](http://www.asceai.net/files/meritous_v12_src.tar.bz2)

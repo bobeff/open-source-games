@@ -1,0 +1,54 @@
+Name,Category,Description,Homepage,Source
+ScummVM,Adventure games,A program which allows you to run certain classic graphical adventure and role-playing games,https://www.scummvm.org,https://github.com/scummvm/scummvm
+Zelda 3,Adventure games,A reverse engineered clone of Zelda 3 - A Link to the Past,,https://github.com/snesrev/zelda3
+OpenRCT2,Business and Tycoon games,An open-source re-implementation of RollerCoaster Tycoon 2,https://openrct2.org,https://github.com/OpenRCT2/OpenRCT2
+OpenTTD,Business and Tycoon games,An open source simulation game based upon Transport Tycoon Deluxe,https://www.openttd.org,https://github.com/OpenTTD/OpenTTD
+Citybound,City-Building games,A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals,https://aeplay.org/citybound,https://github.com/citybound/citybound
+Cytopia,City-Building games,"A free, open source retro pixel-art city building game",https://cytopia.itch.io/cytopia,https://github.com/CytopiaTeam/Cytopia
+micropolisJS,City-Building games,A handmade Javascript port of the open-source city simulator Micropolis,http://www.graememcc.co.uk/micropolisJS,https://github.com/graememcc/micropolisJS
+Anarch,First-Person games,"This isn't a 90s style retro shooter, this is a 90s shooter",https://drummyfish.gitlab.io/anarch,https://gitlab.com/drummyfish/anarch
+Cube 2: Sauerbraten,First-Person games,A free multiplayer & singleplayer first person shooter,http://sauerbraten.org,https://sourceforge.net/projects/sauerbraten
+DOOM,First-Person games,,,https://github.com/id-Software/DOOM
+Doom 3 BFG Edition,First-Person games,,,https://github.com/id-Software/DOOM-3-BFG
+The Dark Mod,First-Person games,First-person stealth video game,https://www.thedarkmod.com/main,https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk
+Quake,First-Person games,,,https://github.com/id-Software/Quake
+Quake 2,First-Person games,,,https://github.com/id-Software/Quake-2
+Quake III Arena,First-Person games,,,https://github.com/id-Software/Quake-III-Arena
+Wolfenstein 3D,First-Person games,,,https://github.com/id-Software/wolf3d
+Commander Keen in Keen Dreams,Platformers,A side-scrolling platform video game developed by id Software,https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams,https://github.com/keendreams/keen
+DDraceNetwork,Platformers,Cooperative 2D online platformer,https://ddnet.tw,https://github.com/ddnet/ddnet
+OpenGOAL,Platformers,"This project is to port Jak and Daxter 1 (NTSC, ""black label"" version) to PC",,https://github.com/water111/jak-project
+Rigel Engine,Platformers,"This project is a re-implementation of the game Duke Nukem II, originally released by Apogee Software in 1993 for MS-DOS",,https://github.com/lethal-guitar/RigelEngine
+Sonic Robo Blast 2,Platformers,a 3D open-source Sonic the Hedgehog fangame built on Doom,https://www.srb2.org,https://git.do.srb2.org/STJr/SRB2
+BlockOut II,Puzzle games,A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989,http://www.blockout.net/blockout2,https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5
+0 A.D.,Real-Time strategies,"A free, open-source game of ancient warfare",https://play0ad.com,https://github.com/0ad/0ad
+BAR,Real-Time strategies,Beyond All Reason,https://www.beyondallreason.info,https://github.com/beyond-all-reason/Beyond-All-Reason
+Dune II The Maker,Real-Time strategies,A Dune 2 remake,https://dune2themaker.fundynamic.com,https://github.com/stefanhendriks/Dune-II---The-Maker
+Mindustry,Real-Time strategies,A sandbox tower-defense game,https://mindustrygame.github.io,https://github.com/Anuken/Mindustry
+OpenHV,Real-Time strategies,An Open Source Pixelart Science-Fiction Real-Time-Strategy game,https://www.openhv.net,https://github.com/OpenHV/OpenHV
+OpenRA,Real-Time strategies,"Command & Conquer, Dune 2000 and Red Alert rebuild for the Modern Era",https://www.openra.net,https://github.com/OpenRA/OpenRA
+Widelands,Real-Time strategies,"A free, open source real-time strategy game",https://www.widelands.org,https://github.com/widelands/widelands
+Cataclysm: Dark Days Ahead,Roguelikes,A turn-based survival game set in a post-apocalyptic world,https://cataclysmdda.org,https://github.com/CleverRaven/Cataclysm-DDA
+Dungeon Crawl Stone Soup,Roguelikes,An open source roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot,https://crawl.develz.org,https://github.com/crawl/crawl
+NetHack,Roguelikes,Single player dungeon exploration game,https://nethack.org,https://github.com/NetHack/NetHack
+Meritous,Roguelikes,An action-adventure,http://asceai.net/meritous,http://www.asceai.net/files/meritous_v12_src.tar.bz2
+Ambermoon.net,Role-Playing games,A full C# rewrite of Ambermoon,,https://github.com/Pyrdacor/Ambermoon.net
+Daggerfall Unity,Role-Playing games,An open source recreation of Daggerfall in the Unity engine,https://www.dfworkshop.net,https://github.com/Interkarma/daggerfall-unity
+Kandria,Role-Playing games,An action RPG made in Common Lisp,https://kandria.com,https://github.com/Shirakumo/Kandria   https://github.com/Shirakumo/trial
+Oolite,Role-Playing games,An open-world space opera,http://www.oolite.org,
+OpenEnroth,Role-Playing games,Might and Magic VI-VIII engine remake using original data & code,,https://github.com/OpenEnroth/OpenEnroth
+OpenMW,Role-Playing games,"A free, open source, and modern engine for The Elder Scrolls III: Morrowind",https://openmw.org,https://github.com/OpenMW/openmw
+Space Station 14,Role-Playing games,Open-source remake of Space Station 13,https://spacestation14.io/,https://github.com/space-wizards/space-station-14
+Veloren,Role-Playing games,multiplayer voxel RPG written in Rust,https://www.veloren.net/,https://github.com/veloren/veloren
+Open Golf,Sport games,A cross-platform minigolf game written in C,,https://github.com/mgerdes/Open-Golf
+CroftEngine,Third-Person games,An open-source Tomb Raider 1 engine remake,,https://github.com/stohrendorf/CroftEngine
+Lugaru: The Rabbit's Foot,Third-Person games,"Cross-platform, open-source 3D action game",http://www.wolfire.com/lugaru,https://github.com/WolfireGames/lugaru
+OpenLara,Third-Person games,Classic Tomb Raider open-source engine,http://xproger.info/projects/OpenLara,https://github.com/XProger/OpenLara
+Overgrowth,Third-Person games,The sequel to Lugaru,https://overgrowth.wolfire.com/,https://github.com/WolfireGames/overgrowth
+C-evo,Turn-Based strategies,A freeware empire-building game for Windows,http://c-evo.org/,
+FreeCol,Turn-Based strategies,"A turn-based strategy game based on Colonization, and similar to Civilization",https://www.freecol.org/,https://github.com/FreeCol/freecol
+Freeciv,Turn-Based strategies,A Free and Open Source empire-building strategy game,http://www.freeciv.org/,https://github.com/freeciv/freeciv
+FreeOrion,Turn-Based strategies,"A free, open source, turn-based space empire and galactic conquest (4X) computer game",https://www.freeorion.org/index.php/Main_Page,https://github.com/freeorion/freeorion
+OpenXcom,Turn-Based strategies,An open-source clone of UFO: Enemy Unknown and X-COM: Terror From the Deep videogames by Micropros.,https://openxcom.org/,https://github.com/OpenXcom/OpenXcom
+The Battle for Wesnoth,Turn-Based strategies,A turn-based strategy game with a high fantasy theme,https://www.wesnoth.org/,https://github.com/wesnoth/wesnoth
+Unciv,Turn-Based strategies,Open-source Android/Desktop remake of Civilization V,https://yairm210.itch.io/unciv,https://github.com/yairm210/Unciv

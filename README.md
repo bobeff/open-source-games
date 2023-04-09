@@ -15,6 +15,7 @@ This is a list of different open-source video games and commercial video games o
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
 - [Turn-Based strategies](#turn-based-strategies)
+- [Engines](#engines)
 - [Other lists](#other-lists)
 
 ## Adventure games
@@ -148,6 +149,10 @@ This is a list of different open-source video games and commercial video games o
 - **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [[source]](https://github.com/wesnoth/wesnoth)
 
 - **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of Civilization V. [[source]](https://github.com/yairm210/Unciv)
+
+## Engines
+
+- **[Minetest](https://www.minetest.net)** - An open source voxel game engine. [[source]](https://github.com/minetest/minetest)
 
 ## Other lists
 

@@ -87,6 +87,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[OpenRA](https://www.openra.net)** - Command & Conquer, Dune 2000 and Red Alert rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)
 
+- **Permafrost Engine** - An OpenGL 3.3 Real Time Strategy game engine written in C. [[source]](https://github.com/eduard-permyakov/permafrost-engine)
+
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
 
 ## Roguelikes

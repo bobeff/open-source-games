@@ -20,6 +20,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Adventure games
 
+- **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [[source]](https://github.com/pioneerspacesim/pioneer)
+
 - **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
 
 - **Zelda 3** - A reverse engineered clone of Zelda 3 - A Link to the Past. [[source]](https://github.com/snesrev/zelda3)

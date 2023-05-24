@@ -156,6 +156,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Engines
 
+- **[Bevy](https://bevyengine.org)** - A refreshingly simple data-driven game engine built in Rust. [[source]](https://github.com/bevyengine/bevy)
+
 - **[Minetest](https://www.minetest.net)** - An open source voxel game engine. [[source]](https://github.com/minetest/minetest)
 
 ## Other lists

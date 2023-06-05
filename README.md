@@ -50,6 +50,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Doom 3 BFG Edition** - [[source]](https://github.com/id-Software/DOOM-3-BFG)
 
+- **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) [[engine source]](https://github.com/godotengine/godot)
+
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
 - **Quake** - [[source]](https://github.com/id-Software/Quake)

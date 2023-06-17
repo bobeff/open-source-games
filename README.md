@@ -114,6 +114,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [[source]](https://github.com/Interkarma/daggerfall-unity)
 
+- **DevilutionX** - A port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [[source]](https://github.com/diasurgical/devilutionX)
+
 - **[Kandria](https://kandria.com)** - An action RPG made in Common Lisp. [[source]](https://github.com/Shirakumo/Kandria) [[engine source]](https://github.com/Shirakumo/trial)
 
 - **[Oolite](http://www.oolite.org)** - An open-world space opera. [[source]](http://www.oolite.org)

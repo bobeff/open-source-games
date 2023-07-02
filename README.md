@@ -70,7 +70,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Fish Folk: Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [[source]](https://github.com/fishfolk/jumpy) [[engine source]](https://github.com/bevyengine/bevy)
 
-- **OpenGOAL** - This project is to port **Jak and Daxter 1** (NTSC, "black label" version) to PC. [[source]](https://github.com/water111/jak-project)
+- **[OpenGOAL](https://opengoal.dev)** - This project is to port **Jak & Daxter Series** to PC. [[source]](https://github.com/water111/jak-project)
 
 - **Rigel Engine** - This project is a re-implementation of the game [Duke Nukem II](https://en.wikipedia.org/wiki/Duke_Nukem_II), originally released by Apogee Software in 1993 for MS-DOS. [[source]](https://github.com/lethal-guitar/RigelEngine)
 

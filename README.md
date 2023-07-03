@@ -154,6 +154,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[OpenXcom](https://openxcom.org/)** - An open-source clone of the popular "**UFO: Enemy Unknown**" and "**X-COM: Terror From the Deep**" videogames by Micropros. [[source]](https://github.com/OpenXcom/OpenXcom)
 
+- **[Rapid Dominance](https://wenta.github.io/rapid-dominance/)** - Open source and free simple browser strategy game. Clone of the Enemy Flag. [[source]](https://github.com/wenta/rapid-dominance)
+
 - **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [[source]](https://github.com/wesnoth/wesnoth)
 
 - **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of Civilization V. [[source]](https://github.com/yairm210/Unciv)

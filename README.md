@@ -38,6 +38,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Cytopia](https://cytopia.itch.io/cytopia)** - A free, open source retro pixel-art city building game. [[source]](https://github.com/CytopiaTeam/Cytopia)
 
+- **Egregoria** - Egregoria is an indie city builder, mostly inspired by Cities:Skylines. [[source]](https://github.com/Uriopass/Egregoria)
+
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** -  A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
 
 ## First-Person games

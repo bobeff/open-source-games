@@ -172,6 +172,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Other lists
 
+- **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)**
+
 - **[Games on GitHub](https://github.com/leereilly/games)**
 
 - **[Libre Game Wiki](https://libregamewiki.org)**

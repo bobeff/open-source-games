@@ -90,6 +90,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Dune II The Maker](https://dune2themaker.fundynamic.com)** - A Dune 2 remake. [[source]](https://github.com/stefanhendriks/Dune-II---The-Maker)
 
+- **Freeserf.net** - Аn authentic remake of the game The Settlers I by BlueByte. [[source]](https://github.com/Pyrdacor/freeserf.net)
+
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)
 
 - **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [[source]](https://github.com/OpenHV/OpenHV)

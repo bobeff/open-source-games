@@ -9,6 +9,7 @@ This is a list of different open-source video games and commercial video games o
 - [First-Person games](#first-person-games)
 - [Platformers](#platformers)
 - [Puzzle games](#puzzle-games)
+- [Racing games](#racing-games)
 - [Real-Time strategies](#real-time-strategies)
 - [Roguelikes](#roguelikes)
 - [Role-Playing games](#role-playing-games)
@@ -81,6 +82,10 @@ This is a list of different open-source video games and commercial video games o
 ## Puzzle games
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
+
+## Racing games
+
+- **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game wipEout. [[source]](https://github.com/phoboslab/wipeout-rewrite)
 
 ## Real-Time strategies
 

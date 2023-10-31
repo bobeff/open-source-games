@@ -149,6 +149,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine [[source]](https://github.com/XProger/OpenLara)
 
+- **[OpenRW](https://openrw.org)** - A Grand Theft Auto III re-implementation. [[source]](https://github.com/rwengine/openrw)
+
 - **[Overgrowth](https://overgrowth.wolfire.com/)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
 
 ## Turn-Based strategies

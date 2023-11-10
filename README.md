@@ -97,6 +97,9 @@ This is a list of different open-source video games and commercial video games o
 
 - **Freeserf.net** - Аn authentic remake of the game The Settlers I by BlueByte. [[source]](https://github.com/Pyrdacor/freeserf.net)
 
+- **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of Dungeon Keeper. [[source]](https://github.com/dkfans/keeperfx)
+
+
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)
 
 - **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [[source]](https://github.com/OpenHV/OpenHV)

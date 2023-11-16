@@ -16,7 +16,6 @@ This is a list of different open-source video games and commercial video games o
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
 - [Turn-Based strategies](#turn-based-strategies)
-- [Engines](#engines)
 - [Other lists](#other-lists)
 
 ## Adventure games
@@ -173,12 +172,6 @@ This is a list of different open-source video games and commercial video games o
 - **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of Civilization V. [[source]](https://github.com/yairm210/Unciv)
 
 - **[VCMI Project](https://vcmi.eu)** - Open-source engine for Heroes of Might and Magic III. [[source]](https://github.com/vcmi/vcmi)
-
-## Engines
-
-- **[Bevy](https://bevyengine.org)** - A refreshingly simple data-driven game engine built in Rust. [[source]](https://github.com/bevyengine/bevy)
-
-- **[Minetest](https://www.minetest.net)** - An open source voxel game engine. [[source]](https://github.com/minetest/minetest)
 
 ## Other lists
 

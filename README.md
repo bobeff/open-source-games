@@ -82,6 +82,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
+- **Portal64** - A demake (remake for an older platform) of Portal for the Nintendo 64. [[source]](https://github.com/lambertjamesd/portal64)
+
 ## Racing games
 
 - **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game wipEout. [[source]](https://github.com/phoboslab/wipeout-rewrite)

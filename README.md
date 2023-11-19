@@ -111,6 +111,9 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
 
+- **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units
+and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
+
 ## Roguelikes
 
 - **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)

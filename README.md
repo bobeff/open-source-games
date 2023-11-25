@@ -79,7 +79,9 @@ This is a list of different open-source video games and commercial video games o
 
 - **Rigel Engine** - This project is a re-implementation of the game [Duke Nukem II](https://en.wikipedia.org/wiki/Duke_Nukem_II), originally released by Apogee Software in 1993 for MS-DOS. [[source]](https://github.com/lethal-guitar/RigelEngine)
 
-- **[Sonic Robo Blast 2](https://www.srb2.org)** - a 3D open-source Sonic the Hedgehog fangame built on Doom. [[source]](https://git.do.srb2.org/STJr/SRB2)
+- **[Sonic Robo Blast 2](https://www.srb2.org)** - A 3D open-source Sonic the Hedgehog fangame built on Doom. [[source]](https://git.do.srb2.org/STJr/SRB2)
+
+- **Super Mario 64** - A full decompilation of Super Mario 64. [[source]](https://github.com/n64decomp/sm64)
 
 ## Puzzle games
 

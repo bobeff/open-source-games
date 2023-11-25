@@ -25,6 +25,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
 
+- **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile Twilight Princess into human-readable and modifiable source code. [[source]](https://github.com/zeldaret/tp)
+
 - **Zelda 3** - A reverse engineered clone of Zelda 3 - A Link to the Past. [[source]](https://github.com/snesrev/zelda3)
 
 ## Business and Tycoon games

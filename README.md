@@ -13,6 +13,7 @@ This is a list of different open-source video games and commercial video games o
 - [Real-Time strategies](#real-time-strategies)
 - [Roguelikes](#roguelikes)
 - [Role-Playing games](#role-playing-games)
+- [Sandbox games](#sandbox-games)
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
 - [Turn-Based strategies](#turn-based-strategies)
@@ -143,6 +144,10 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](ht
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
+
+## Sandbox games
+
+- **Minosoft** - An open source minecraft client, written from scratch in kotlin (and java). [[source]](https://github.com/bixilon/minosoft)
 
 ## Sport games
 

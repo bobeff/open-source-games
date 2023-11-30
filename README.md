@@ -140,6 +140,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](ht
 
 - **[Kandria](https://kandria.com)** - An action RPG made in Common Lisp. [[source]](https://github.com/Shirakumo/Kandria) [[engine source]](https://github.com/Shirakumo/trial)
 
+- **[Naev](https://naev.org)** - A 2d action/rpg space game that combines elements from the action, rpg and simulation genres. [[source]](https://github.com/naev/naev)
+
 - **[Oolite](https://www.oolite.space/)** - An open-world space opera. [[source]](https://github.com/OoliteProject/oolite)
 
 - **OpenEnroth** - Might and Magic VI-VIII engine remake using original data & code. [[source]](https://github.com/OpenEnroth/OpenEnroth)

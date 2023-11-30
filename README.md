@@ -14,6 +14,7 @@ This is a list of different open-source video games and commercial video games o
 - [Roguelikes](#roguelikes)
 - [Role-Playing games](#role-playing-games)
 - [Sandbox games](#sandbox-games)
+- [Shoot 'em up games](#shoot-em-up-games)
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
 - [Turn-Based strategies](#turn-based-strategies)
@@ -152,6 +153,10 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](ht
 ## Sandbox games
 
 - **Minosoft** - An open source minecraft client, written from scratch in kotlin (and java). [[source]](https://github.com/bixilon/minosoft)
+
+## Shoot 'em up games
+
+- **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. **[[source]](https://github.com/fragglet/sdl-sopwith)**
 
 ## Sport games
 

@@ -3,6 +3,7 @@
 This is a list of different open-source video games and commercial video games open-source remakes.
 ## Table of contents
 
+- [Action games](#action-games)
 - [Adventure games](#adventure-games)
 - [Business and Tycoon games](#business-and-tycoon-games)
 - [City-Building games](#city-building-games)
@@ -19,6 +20,10 @@ This is a list of different open-source video games and commercial video games o
 - [Third-Person games](#third-person-games)
 - [Turn-Based strategies](#turn-based-strategies)
 - [Other lists](#other-lists)
+
+## Action games
+
+- **[Hypersomnia](https://hypersomnia.xyz)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
 
 ## Adventure games
 

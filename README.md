@@ -150,6 +150,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](ht
 
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)
 
+- **[Unknown Horizons](https://unknown-horizons.org/)** - A 2D realtime strategy simulation with an emphasis on economy and city building. [[source]](https://github.com/unknown-horizons/unknown-horizons)
+
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
 
 ## Sandbox games

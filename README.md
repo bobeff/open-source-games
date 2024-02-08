@@ -64,6 +64,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **DOOM** - [[source]](https://github.com/id-Software/DOOM)
 
+- **DOOM64-RE** - Complete reverse engineering of Doom 64. [[source]](https://github.com/Erick194/DOOM64-RE)
+
 - **Doom 3 BFG Edition** - [[source]](https://github.com/id-Software/DOOM-3-BFG)
 
 - **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) [[engine source]](https://github.com/godotengine/godot)

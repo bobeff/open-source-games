@@ -160,6 +160,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game **The Elder Scrolls III: Morrowind**. [[source]](https://github.com/OpenMW/openmw)
 
+- **reone** - A free and open source game engine, capable of running Star Wars: Knights of the Old Republic and its sequel, The Sith Lords. [[source]](https://github.com/seedhartha/reone)
+
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)

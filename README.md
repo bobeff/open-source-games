@@ -120,6 +120,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)
 
+- **[OpenAge](https://openage.sft.mx)** - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of Age of Empires. [[source]](https://github.com/SFTtech/openage)
+
 - **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [[source]](https://github.com/OpenHV/OpenHV)
 
 - **[OpenRA](https://www.openra.net)** - Command & Conquer, Dune 2000 and Red Alert rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)

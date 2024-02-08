@@ -18,6 +18,7 @@ This is a list of different open-source video games and commercial video games o
 - [Shoot 'em up games](#shoot-em-up-games)
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
+- [Tower Defense games](#tower-defence-games)
 - [Turn-Based strategies](#turn-based-strategies)
 - [Other lists](#other-lists)
 
@@ -186,6 +187,10 @@ The game also has a lot of forks that add their own features, difficulty scaling
 - **[OpenRW](https://openrw.org)** - A Grand Theft Auto III re-implementation. [[source]](https://github.com/rwengine/openrw)
 
 - **[Overgrowth](https://overgrowth.wolfire.com/)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
+
+## Tower Defense games
+
+- **Izowave** - Your task is to survive on chosen planet as many waves as possible. [[source]](https://github.com/neki-dev/izowave)
 
 ## Turn-Based strategies
 

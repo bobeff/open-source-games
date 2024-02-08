@@ -46,6 +46,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** -  A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
 
+- **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building. [[source]](https://github.com/unknown-horizons/unknown-horizons) [[engine-source]](https://github.com/fifengine/fifengine) [[godot-port]](https://github.com/unknown-horizons/godot-port)
+
 ## First-Person games
 
 - **[Anarch](https://drummyfish.gitlab.io/anarch)** - This isn't a 90s style retro shooter, this is a 90s shooter. [[source]](https://gitlab.com/drummyfish/anarch)
@@ -105,7 +107,6 @@ This is a list of different open-source video games and commercial video games o
 - **Freeserf.net** - Аn authentic remake of the game The Settlers I by BlueByte. [[source]](https://github.com/Pyrdacor/freeserf.net)
 
 - **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of Dungeon Keeper. [[source]](https://github.com/dkfans/keeperfx)
-
 
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)
 

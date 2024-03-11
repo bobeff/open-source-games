@@ -196,6 +196,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[Overgrowth](https://overgrowth.wolfire.com/)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
 
+- **RE3** - The fully reversed source code for GTA III and GTA VC. [[source]](https://github.com/halpz/re3)
+
 ## Tower Defense games
 
 - **Izowave** - Your task is to survive on chosen planet as many waves as possible. [[source]](https://github.com/neki-dev/izowave)

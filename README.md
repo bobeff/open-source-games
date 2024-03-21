@@ -202,6 +202,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 ## Turn-Based strategies
 
+- **[Ancient Beast](https://ancientbeast.com/)** - A turned-based strategy indie games with variety of different creatures that support multiplayer. [[source]](https://github.com/FreezingMoon/AncientBeast)
+  
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 
 - **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game Colonization, and similar to Civilization. [[source]](https://github.com/FreeCol/freecol)

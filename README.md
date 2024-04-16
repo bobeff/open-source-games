@@ -62,6 +62,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten)
 
+- **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3)
+
 - **DOOM** - [[source]](https://github.com/id-Software/DOOM)
 
 - **DOOM64-RE** - Complete reverse engineering of Doom 64. [[source]](https://github.com/Erick194/DOOM64-RE)

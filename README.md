@@ -156,6 +156,10 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **DevilutionX** - A port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [[source]](https://github.com/diasurgical/devilutionX)
 
+- **Fallout Community Edition** - A fully working re-implementation of Fallout. [[source]](https://github.com/alexbatalov/fallout1-ce)
+
+- **Fallout 2 Community Edition** - A fully working re-implementation of Fallout 2. [[source]](https://github.com/alexbatalov/fallout2-ce)
+
 - **[Kandria](https://kandria.com)** - An action RPG made in Common Lisp. [[source]](https://github.com/Shirakumo/Kandria) [[engine source]](https://github.com/Shirakumo/trial)
 
 - **[Naev](https://naev.org)** - A 2d action/rpg space game that combines elements from the action, rpg and simulation genres. [[source]](https://github.com/naev/naev)

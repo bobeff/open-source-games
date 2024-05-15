@@ -210,6 +210,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 ## Turn-Based strategies
 
+- **[Athena Crisis](https://athenacrisis.com)** - A modern-retro turn-based tactical strategy game. [[source]](https://github.com/nkzw-tech/athena-crisis)
+
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 
 - **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game Colonization, and similar to Civilization. [[source]](https://github.com/FreeCol/freecol)

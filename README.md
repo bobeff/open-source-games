@@ -52,6 +52,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Egregoria** - Egregoria is an indie city builder, mostly inspired by Cities:Skylines. [[source]](https://github.com/Uriopass/Egregoria)
 
+- **Julius** - An open source re-implementation of Caesar III. [[source]](https://github.com/bvschaik/julius)
+
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** -  A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
 
 - **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building. [[source]](https://github.com/unknown-horizons/unknown-horizons) [[engine-source]](https://github.com/fifengine/fifengine) [[godot-port]](https://github.com/unknown-horizons/godot-port)

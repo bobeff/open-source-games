@@ -194,6 +194,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **Open Golf** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
 
+- **Pooltool** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)
+
 ## Third-Person games
 
 - **CroftEngine** - An open-source Tomb Raider 1 engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)

@@ -76,6 +76,10 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) [[engine source]](https://github.com/godotengine/godot)
 
+- **Xonotic** - [[source]](https://github.com/xonotic/xonotic)
+
+- **Unvanquished** - [[source]](https://github.com/Unvanquished/Unvanquished)
+
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
 - **Quake** - [[source]](https://github.com/id-Software/Quake)

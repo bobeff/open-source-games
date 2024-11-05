@@ -220,6 +220,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 
+- **fheroes2** - A recreation of Heroes of Might and Magic II game engine. [[source]](https://github.com/ihhub/fheroes2)
+
 - **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game Colonization, and similar to Civilization. [[source]](https://github.com/FreeCol/freecol)
 
 - **[Freeciv](http://www.freeciv.org/)** - A Free and Open Source empire-building strategy game. [[source]](https://github.com/freeciv/freeciv)

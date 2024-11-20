@@ -56,6 +56,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** -  A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
 
+- **openblack** - An open source reimplementation of Black & White (2001) written in modern C++ and modern rendering engines (OpenGL, Vulkan). [[source]](https://github.com/openblack/openblack)
+
 - **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building. [[source]](https://github.com/unknown-horizons/unknown-horizons) [[engine-source]](https://github.com/fifengine/fifengine) [[godot-port]](https://github.com/unknown-horizons/godot-port)
 
 ## First-Person games

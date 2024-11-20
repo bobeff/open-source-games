@@ -184,6 +184,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 ## Sandbox games
 
+- [Cubyz](https://github.com/PixelGuys/Cubyz) - Cubyz is a fully written in the Zig language. Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+
 - **Minosoft** - An open source minecraft client, written from scratch in kotlin (and java). [[source]](https://github.com/bixilon/minosoft)
 
 ## Shoot 'em up games

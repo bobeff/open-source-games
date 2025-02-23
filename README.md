@@ -160,6 +160,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **DevilutionX** - A port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [[source]](https://github.com/diasurgical/devilutionX)
 
+- **[Exult](https://exult.sourceforge.io)** - A project to recreate Ultima VII for modern operating systems. [[source]](https://github.com/exult/exult)
+
 - **Fallout Community Edition** - A fully working re-implementation of Fallout. [[source]](https://github.com/alexbatalov/fallout1-ce)
 
 - **Fallout 2 Community Edition** - A fully working re-implementation of Fallout 2. [[source]](https://github.com/alexbatalov/fallout2-ce)

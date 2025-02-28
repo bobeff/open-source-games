@@ -118,6 +118,14 @@ This is a list of different open-source video games and commercial video games o
 
 - **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [[source]](https://github.com/beyond-all-reason/Beyond-All-Reason) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
 
+- **Command & Conquer Generals** - Command & Conquer Generals, and its expansion pack Zero Hour. [[source]](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
+
+- **Command & Conquer Red Alert** - [[source]](https://github.com/electronicarts/CnC_Red_Alert)
+
+- **Command & Conquer Remastered Collection** - TiberianDawn.dll, RedAlert.dll and the Map Editor for the Command & Conquer Remastered Collection. [[source]](https://github.com/electronicarts/CnC_Remastered_Collection)
+
+- **Command and Conquer Tiberian Dawn** - [[source]](https://github.com/electronicarts/CnC_Tiberian_Dawn)
+
 - **[Dune II The Maker](https://dune2themaker.fundynamic.com)** - A Dune 2 remake. [[source]](https://github.com/stefanhendriks/Dune-II---The-Maker)
 
 - **Freeserf.net** - Аn authentic remake of the game The Settlers I by BlueByte. [[source]](https://github.com/Pyrdacor/freeserf.net)
@@ -201,6 +209,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 - **Pooltool** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)
 
 ## Third-Person games
+
+- **Command & Conquer Renegade** - [[source]](https://github.com/electronicarts/CnC_Renegade)
 
 - **CroftEngine** - An open-source Tomb Raider 1 engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)
 

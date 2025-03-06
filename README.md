@@ -38,6 +38,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Business and Tycoon games
 
+- **[FreeRCT](https://freerct.net/)** - Free and open source game which captures the look, feel, and gameplay of RollerCoaster Tycoon 1 and 2. [[source]](https://codeberg.org/FreeRCT/FreeRCT)
+
 - **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of RollerCoaster Tycoon 2. [[source]](https://github.com/OpenRCT2/OpenRCT2)
 
 - **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon Transport Tycoon Deluxe. [[source]](https://github.com/OpenTTD/OpenTTD)
@@ -95,6 +97,8 @@ This is a list of different open-source video games and commercial video games o
 - **[Fish Folk: Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [[source]](https://github.com/fishfolk/jumpy) [[engine source]](https://github.com/bevyengine/bevy)
 
 - **[OpenGOAL](https://opengoal.dev)** - This project is to port **Jak & Daxter Series** to PC. [[source]](https://github.com/water111/jak-project)
+
+- **[Open Surge](https://opensurge2d.org/)** - Open Surge Engine is an open-source 2D retro game engine for creating games that are similar to Sonic The Hedgehog. [[source]](https://github.com/alemart/opensurge)
 
 - **Rigel Engine** - This project is a re-implementation of the game [Duke Nukem II](https://en.wikipedia.org/wiki/Duke_Nukem_II), originally released by Apogee Software in 1993 for MS-DOS. [[source]](https://github.com/lethal-guitar/RigelEngine)
 

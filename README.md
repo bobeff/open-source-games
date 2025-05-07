@@ -102,6 +102,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Super Mario 64** - A full decompilation of Super Mario 64. [[source]](https://github.com/n64decomp/sm64)
 
+- **[VVVVVV](https://thelettervsixtim.es/)** - [[source]](https://github.com/TerryCavanagh/VVVVVV)
+
 ## Puzzle games
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)

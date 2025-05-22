@@ -113,6 +113,19 @@ This is a list of different open-source video games and commercial video games o
 ## Racing games
 
 - **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game wipEout. [[source]](https://github.com/phoboslab/wipeout-rewrite)
+- **[Speed Dreams](https://www.speed-dreams.net)** - A Free and Open Source (FOSS) Motorsport Simulation Game. [[Source]](https://sourceforge.net/p/speed-dreams/code/HEAD/tree/)
+- **[Stunt Rally](https://stuntrally.tuxfamily.org/)** - Stunt Rally is a 3D racing game with own Track Editor. [[Source]](https://github.com/stuntrally/stuntrally3)
+- **[SuperTuxKart](https://supertuxkart.net)** - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play [[Source]](https://github.com/supertuxkart/stk-code/tree/preview)
+- **[Rigs of Rods](https://www.rigsofrods.org/)** - Rigs of Rods is a free and open source vehicle simulator that uses soft-body physics to simulate the motion destruction and deformation of vehicles. [[Source]](https://github.com/RigsOfRods/rigs-of-rods)
+- **[Vdrift](https://vdrift.net/)** - VDrift is a cross-platform, open source driving simulation made with drift racing in mind. [[Source]](https://github.com/VDrift/vdrift/)
+- **[Trigger Rally](https://trigger-rally.sourceforge.io/)** - Trigger Rally is a fast-paced single-player racing game for Linux and Windows. [[Source]](https://sourceforge.net/p/trigger-rally/code/HEAD/tree/)
+- **[Yorg](https://www.ya2.it/)** - Yorg is a free open source racing game writen in Panda3D. [[Source]](https://github.com/cflavio/yorg) 
+- **[Dust Racing 2D(Source)](https://github.com/juzzlin/DustRacing2D)** - Dust Racing 2D is a traditional top-down car racing game including a level editor. 
+- **[TORCS](https://torcs.sourceforge.net/)** - TORCS, The Open Racing Car Simulator is a highly portable multi platform car racing simulation. [[Source]](https://sourceforge.net/p/torcs/code/ci/master/tree/)
+- **[Mania Drive](http://maniadrive.raydium.org/)** - ManiaDrive is a clone of Trackmania : 3D, stunts and skills ! [[Source]](https://sourceforge.net/projects/maniadrive/files/maniadrive/)
+- **[RVGL](https://rvgl.org/)** - RVGL is a cross-platform rewrite / port of Re-Volt that runs natively on a wide variety of platforms.
+- **[F1 Spirit Remake](https://f1spirit.jorito.net/)** - Konami MSX1 classic F-1 Spirit remake.
+- **[Road Fighter Remake](https://roadfighter.jorito.net/)** - Konami MSX1 classic Road Fighter remake.
 
 ## Real-Time strategies
 

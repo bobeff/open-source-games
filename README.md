@@ -184,6 +184,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **OpenEnroth** - Might and Magic VI-VIII engine remake using original data & code. [[source]](https://github.com/OpenEnroth/OpenEnroth)
 
+- **Open-Ko** - OpenKO is an open-source reimplementation of the Knight Online MMORPG 1298 client and server. [[source]](https://github.com/Open-KO/KnightOnline)
+
 - **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game **The Elder Scrolls III: Morrowind**. [[source]](https://github.com/OpenMW/openmw)
 
 - **OpenNox** - An open-source community collaboration project extending the Nox engine. [[source]](https://github.com/noxworld-dev/opennox)

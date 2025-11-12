@@ -36,6 +36,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Zelda 3** - A reverse engineered clone of Zelda 3 - A Link to the Past. [[source]](https://github.com/snesrev/zelda3)
 
+- **[Minecraft Weekend](https://github.com/jdah/minecraft-weekend)** - A Minecraft-like game created in 48 hours, featuring an infinite, procedurally generated world. [[source]](https://github.com/jdah/minecraft-weekend)
+
 ## Business and Tycoon games
 
 - **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of RollerCoaster Tycoon 2. [[source]](https://github.com/OpenRCT2/OpenRCT2)

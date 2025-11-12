@@ -110,6 +110,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Portal64** - A demake (remake for an older platform) of Portal for the Nintendo 64. [[source]](https://github.com/lambertjamesd/portal64)
 
+- **[Hextris](https://hextris.io/)** - Fast paced HTML5 puzzle game inspired by Tetris!. [[source]](https://github.com/Hextris/hextris)
+
 ## Racing games
 
 - **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game wipEout. [[source]](https://github.com/phoboslab/wipeout-rewrite)

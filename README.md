@@ -103,9 +103,9 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Sonic Robo Blast 2](https://www.srb2.org)** - A 3D open-source Sonic the Hedgehog fangame built on Doom. [[source]](https://git.do.srb2.org/STJr/SRB2)
 
-- **Super Mario 64** - A full decompilation of Super Mario 64. [[source]](https://github.com/n64decomp/sm64)
-
 - **[SuparMario Sis Adventure](https://github.com/m3hrab/SuperMario-Sis)** - A 2D platformer built with Python and Pygame featuring enemy AI, modular levels, and a custom level editor. [[source]](https://github.com/m3hrab/SuperMario-Sis)
+
+- **Super Mario 64** - A full decompilation of Super Mario 64. [[source]](https://github.com/n64decomp/sm64)
 
 - **[VVVVVV](https://thelettervsixtim.es/)** - [[source]](https://github.com/TerryCavanagh/VVVVVV)
 

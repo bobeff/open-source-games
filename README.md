@@ -1,26 +1,29 @@
 # Open source games
 
 This is a list of different open-source video games and commercial video games open-source remakes.
+
 ## Table of contents
 
-- [Action games](#action-games)
-- [Adventure games](#adventure-games)
-- [Business and Tycoon games](#business-and-tycoon-games)
-- [City-Building games](#city-building-games)
-- [First-Person games](#first-person-games)
-- [Platformers](#platformers)
-- [Puzzle games](#puzzle-games)
-- [Racing games](#racing-games)
-- [Real-Time strategies](#real-time-strategies)
-- [Roguelikes](#roguelikes)
-- [Role-Playing games](#role-playing-games)
-- [Sandbox games](#sandbox-games)
-- [Shoot 'em up games](#shoot-em-up-games)
-- [Sport games](#sport-games)
-- [Third-Person games](#third-person-games)
-- [Tower Defense games](#tower-defence-games)
-- [Turn-Based strategies](#turn-based-strategies)
-- [Other lists](#other-lists)
+- [Open source games](#open-source-games)
+  - [Table of contents](#table-of-contents)
+  - [Action games](#action-games)
+  - [Adventure games](#adventure-games)
+  - [Business and Tycoon games](#business-and-tycoon-games)
+  - [City-Building games](#city-building-games)
+  - [First-Person games](#first-person-games)
+  - [Platformers](#platformers)
+  - [Puzzle games](#puzzle-games)
+  - [Racing games](#racing-games)
+  - [Real-Time strategies](#real-time-strategies)
+  - [Roguelikes](#roguelikes)
+  - [Role-Playing games](#role-playing-games)
+  - [Sandbox games](#sandbox-games)
+  - [Shoot 'em up games](#shoot-em-up-games)
+  - [Sport games](#sport-games)
+  - [Third-Person games](#third-person-games)
+  - [Tower Defense games](#tower-defense-games)
+  - [Turn-Based strategies](#turn-based-strategies)
+  - [Other lists](#other-lists)
 
 ## Action games
 
@@ -54,7 +57,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **Julius** - An open source re-implementation of Caesar III. [[source]](https://github.com/bvschaik/julius)
 
-- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** -  A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
+- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade Javascript port of the open-source city simulator Micropolis. [[source]](https://github.com/graememcc/micropolisJS)
 
 - **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building. [[source]](https://github.com/unknown-horizons/unknown-horizons) [[engine-source]](https://github.com/fifengine/fifengine) [[godot-port]](https://github.com/unknown-horizons/godot-port)
 
@@ -102,6 +105,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Super Mario 64** - A full decompilation of Super Mario 64. [[source]](https://github.com/n64decomp/sm64)
 
+- **[SuparMario Sis Adventure](https://github.com/m3hrab/SuperMario-Sis)** - A 2D platformer built with Python and Pygame featuring enemy AI, modular levels, and a custom level editor. [[source]](https://github.com/m3hrab/SuperMario-Sis)
+
 - **[VVVVVV](https://thelettervsixtim.es/)** - [[source]](https://github.com/TerryCavanagh/VVVVVV)
 
 ## Puzzle games
@@ -116,7 +121,7 @@ This is a list of different open-source video games and commercial video games o
 
 ## Real-Time strategies
 
-- **[0 A.D.](https://play0ad.com)** -  A free, open-source game of ancient warfare. [[source]](https://github.com/0ad/0ad)
+- **[0 A.D.](https://play0ad.com)** - A free, open-source game of ancient warfare. [[source]](https://github.com/0ad/0ad)
 
 - **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [[source]](https://github.com/beyond-all-reason/Beyond-All-Reason) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
 
@@ -147,7 +152,7 @@ This is a list of different open-source video games and commercial video games o
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
 
 - **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units
-and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
+  and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
 
 ## Roguelikes
 
@@ -160,7 +165,7 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](ht
 - **[Meritous](http://asceai.net/meritous)** - An action-adventure dungeon crawl game. [[source]](http://www.asceai.net/files/meritous_v12_src.tar.bz2)
 
 - **[Pixel Dungeon](https://pixeldungeon.watabou.ru/)** - Traditional roguelike game with pixel-art graphics and simple interface. [[source]](https://github.com/watabou/pixel-dungeon)
-The game also has a lot of forks that add their own features, difficulty scaling like [Shattered PD](https://github.com/00-Evan/shattered-pixel-dungeon), [Summoning PD](https://github.com/.TrashboxBobylev/Summoning-Pixel-Dungeon).
+  The game also has a lot of forks that add their own features, difficulty scaling like [Shattered PD](https://github.com/00-Evan/shattered-pixel-dungeon), [Summoning PD](https://github.com/.TrashboxBobylev/Summoning-Pixel-Dungeon).
 
 ## Role-Playing games
 

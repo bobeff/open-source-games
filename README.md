@@ -118,7 +118,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[0 A.D.](https://play0ad.com)** -  A free, open-source game of ancient warfare. [[source]](https://github.com/0ad/0ad)
 
-- **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [[source]](https://github.com/beyond-all-reason/Beyond-All-Reason) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
+- **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [[source]](https://github.com/beyond-all-reason/Beyond-All-Reason) [[engine]](https://recoilengine.org) [[engine source]](https://github.com/beyond-all-reason/RecoilEngine)
 
 - **Command & Conquer Generals** - Command & Conquer Generals, and its expansion pack Zero Hour. [[source]](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
 
@@ -144,10 +144,12 @@ This is a list of different open-source video games and commercial video games o
 
 - **Permafrost Engine** - An OpenGL 3.3 Real Time Strategy game engine written in C. [[source]](https://github.com/eduard-permyakov/permafrost-engine)
 
+- **[Recoil Engine](https://recoilengine.org)** - The modern fork of SpringRTS, with modern features, written in C++ and Lua. Known for BAR and ZeroK. [[source]](https://github.com/beyond-all-reason/RecoilEngine)
+
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
 
 - **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units
-and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
+and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](https://recoilengine.org) [[engine source]](https://github.com/beyond-all-reason/RecoilEngine)
 
 ## Roguelikes
 

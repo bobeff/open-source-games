@@ -258,6 +258,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)**
 
+- **[Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)**
+
 - **[Games on GitHub](https://github.com/leereilly/games)**
 
 - **[Libre Game Wiki](https://libregamewiki.org)**

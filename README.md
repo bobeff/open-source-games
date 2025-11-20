@@ -22,7 +22,7 @@ This is a list of different open-source video games and commercial video games o
 - [Turn-Based strategies](#turn-based-strategies)
 - [Other lists](#other-lists)
 
-## Action games
+
 
 - **[Hypersomnia](https://hypersomnia.xyz)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
 
@@ -264,9 +264,3 @@ The game also has a lot of forks that add their own features, difficulty scaling
 - **[Libre Game Wiki](https://libregamewiki.org)**
 
 - **[List of (interesting) FOSS game engine replacement projects](https://forum.openmw.org/viewtopic.php?p=57882)**
-
-- **[List of Open Source Games](https://trilarion.github.io/opensourcegames)**
-
-- **[Open Source Game Clones](https://osgameclones.com)**
-
-- **[Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source-video-games)**

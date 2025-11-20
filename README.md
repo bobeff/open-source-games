@@ -146,8 +146,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
 
-- **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units
-and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
+- **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
 
 ## Roguelikes
 
@@ -216,17 +215,17 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **CroftEngine** - An open-source Tomb Raider 1 engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)
 
-- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[soruce]](https://github.com/WolfireGames/lugaru)
+- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[source]](https://github.com/WolfireGames/lugaru)
 
 - **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine [[source]](https://github.com/XProger/OpenLara)
 
 - **[OpenRW](https://openrw.org)** - A Grand Theft Auto III re-implementation. [[source]](https://github.com/rwengine/openrw)
 
-- **[Overgrowth](https://overgrowth.wolfire.com)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
+- **[Overgrowth](https://overgrowth.wolfire.com)** - The sequel to Lugaru. [[source]](https://github.com/WolfireGames/overgrowth)
 
 - **RE3** - The fully reversed source code for GTA III and GTA VC. [[source]](https://github.com/halpz/re3)
 
-- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom Tomb Raider adventures. [[dource]](https://github.com/TombEngine/TombEngine)
+- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom Tomb Raider adventures. [[source]](https://github.com/TombEngine/TombEngine)
 
 ## Tower Defense games
 
@@ -270,4 +269,4 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[Open Source Game Clones](https://osgameclones.com)**
 
-- **[Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)**
+- **[Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source-video-games)**

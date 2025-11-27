@@ -192,7 +192,7 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)
 
-- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for Ultima VII that presents the game in 3D and fixes various issue with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
+- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for Ultima VII that presents the game in 3D and fixes various issues with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
 

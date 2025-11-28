@@ -192,7 +192,7 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)
 
-- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for Ultima VII that presents the game in 3D and fixes various issue with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
+- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for Ultima VII that presents the game in 3D and fixes various issues with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
 
@@ -216,17 +216,17 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **CroftEngine** - An open-source Tomb Raider 1 engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)
 
-- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[soruce]](https://github.com/WolfireGames/lugaru)
+- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[source]](https://github.com/WolfireGames/lugaru)
 
 - **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine [[source]](https://github.com/XProger/OpenLara)
 
 - **[OpenRW](https://openrw.org)** - A Grand Theft Auto III re-implementation. [[source]](https://github.com/rwengine/openrw)
 
-- **[Overgrowth](https://overgrowth.wolfire.com)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
+- **[Overgrowth](https://overgrowth.wolfire.com)** - The sequel to Lugaru. [[source]](https://github.com/WolfireGames/overgrowth)
 
 - **RE3** - The fully reversed source code for GTA III and GTA VC. [[source]](https://github.com/halpz/re3)
 
-- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom Tomb Raider adventures. [[dource]](https://github.com/TombEngine/TombEngine)
+- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom Tomb Raider adventures. [[source]](https://github.com/TombEngine/TombEngine)
 
 ## Tower Defense games
 

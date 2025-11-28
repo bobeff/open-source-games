@@ -90,7 +90,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Commander Keen in Keen Dreams](https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams)** - A side-scrolling platform video game developed by id Software. [[source]](https://github.com/keendreams/keen)
 
-- **[DDraceNetwork](https://ddnet.tw)** - Cooperative 2D online platformer. [[source]](https://github.com/ddnet/ddnet)
+- **[DDraceNetwork](https://ddnet.org)** - Cooperative 2D online platformer. [[source]](https://github.com/ddnet/ddnet)
 
 - **[Fish Folk: Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [[source]](https://github.com/fishfolk/jumpy) [[engine source]](https://github.com/bevyengine/bevy)
 

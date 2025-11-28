@@ -132,6 +132,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **Freeserf.net** - Аn authentic remake of the game The Settlers I by BlueByte. [[source]](https://github.com/Pyrdacor/freeserf.net)
 
+- **[MegaGlest](https://megaglest.org/)** - A free and open source real-time strategy computer game in a fantasy world, mixing elements of re-imagined past civilizations, magic and steampunk. [[source]](https://github.com/MegaGlest)
+
 - **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of Dungeon Keeper. [[source]](https://github.com/dkfans/keeperfx)
 
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)

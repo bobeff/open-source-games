@@ -113,6 +113,7 @@ This is a list of different open-source video games and commercial video games o
 ## Racing games
 
 - **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game wipEout. [[source]](https://github.com/phoboslab/wipeout-rewrite)
+- **[SuperTuxKart](https://supertuxkart.net)** - An open source Kart racing game. You can play offline and online against other players. It features many different game modes with a variety of different tracks and arenas.
 
 ## Real-Time strategies
 

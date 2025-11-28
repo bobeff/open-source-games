@@ -230,6 +230,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 ## Tower Defense games
 
+- **[Service Survival](https://pshenok.github.io/server-survival)** - interactive 3D simulation game where you play as a Cloud Architect. Your mission is to build and scale a resilient cloud infrastructure to handle increasing traffic loads while fighting off DDoS attacks and managing your budget. [[source]](https://github.com/pshenok/server-survival)
+
 - **Izowave** - Your task is to survive on chosen planet as many waves as possible. [[source]](https://github.com/neki-dev/izowave)
 
 ## Turn-Based strategies

@@ -3,6 +3,7 @@
 This is a list of different open-source video games and commercial video games open-source remakes.
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Action games](#action-games)
 - [Adventure games](#adventure-games)
 - [Business and Tycoon games](#business-and-tycoon-games)
@@ -18,7 +19,7 @@ This is a list of different open-source video games and commercial video games o
 - [Shoot 'em up games](#shoot-em-up-games)
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
-- [Tower Defense games](#tower-defence-games)
+- [Tower Defense games](#tower-defense-games)
 - [Turn-Based strategies](#turn-based-strategies)
 - [Other lists](#other-lists)
 

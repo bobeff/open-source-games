@@ -24,6 +24,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Action games
 
+- **[Endless Sky](https://endless-sky.github.io/)** - A 2D space trading and combat game in the spirit of the classic Escape Velocity series. [[source]](https://github.com/endless-sky/endless-sky)
+
 - **[Hypersomnia](https://hypersomnia.xyz)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
 
 ## Adventure games

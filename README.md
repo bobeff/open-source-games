@@ -234,6 +234,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 ## Turn-Based strategies
 
+- **[Ancient Beast](https://ancientbeast.com)** - Spiritual successor to Heroes of Might and Magic III focusing on combat; matched based eSport. [[source]](https://github.com/FreezingMoon/AncientBeast)
+
 - **[Athena Crisis](https://athenacrisis.com)** - A modern-retro turn-based tactical strategy game. [[source]](https://github.com/nkzw-tech/athena-crisis)
 
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)

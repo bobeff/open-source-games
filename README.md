@@ -188,6 +188,8 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **OpenNox** - An open-source community collaboration project extending the Nox engine. [[source]](https://github.com/noxworld-dev/opennox)
 
+- **[Reia](https://www.playreia.com)** - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig. [[source]](https://github.com/Quaint-Studios/Reia)
+
 - **reone** - A free and open source game engine, capable of running Star Wars: Knights of the Old Republic and its sequel, The Sith Lords. [[source]](https://github.com/seedhartha/reone)
 
 - **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)

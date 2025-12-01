@@ -151,6 +151,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](ht
 
 ## Roguelikes
 
+- **[Brogue CE](https://sites.google.com/site/broguegame/)** - Brogue is a minimalist, turn-based, procedurally-generated roguelike game where you descend a perilous dungeon to retrieve the Amulet of Yendor. [[source]](https://github.com/tmewett/BrogueCE)
+
 - **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)
 
 - **[Dungeon Crawl Stone Soup](https://crawl.develz.org)** - An open source roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot. [[source]](https://github.com/crawl/crawl)

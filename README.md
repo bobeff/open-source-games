@@ -16,6 +16,7 @@ This is a list of different open-source video games and commercial video games o
 - [Role-Playing games](#role-playing-games)
 - [Sandbox games](#sandbox-games)
 - [Shoot 'em up games](#shoot-em-up-games)
+- [Simulation games](#simulation-games)
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
 - [Tower Defense games](#tower-defence-games)
@@ -203,6 +204,10 @@ The game also has a lot of forks that add their own features, difficulty scaling
 ## Shoot 'em up games
 
 - **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. **[[source]](https://github.com/fragglet/sdl-sopwith)**
+
+## Simulation games
+
+- **[Hurry Curry!](https://hurrycurry.org)** - Cooperative fast-paced multiplayer cooking game. [[source]](https://codeberg.org/hurrycurry/hurrycurry)
 
 ## Sport games
 

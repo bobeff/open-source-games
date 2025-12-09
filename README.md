@@ -24,7 +24,7 @@ This is a list of different open-source video games and commercial video games o
 
 ## Action games
 
-- **[Hypersomnia](https://hypersomnia.xyz)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
+- **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
 
 ## Adventure games
 

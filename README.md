@@ -24,17 +24,17 @@ This is a list of different open-source video games and commercial video games o
 
 ## Action games
 
-- **[Hypersomnia](https://hypersomnia.xyz)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
+- **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia, plus a built-in map editor. **[[Source: <img src="icons/cpp.svg" alt="C++" width="16" height="16">]](https://github.com/TeamHypersomnia/Hypersomnia)**
 
 ## Adventure games
 
-- **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [[source]](https://github.com/pioneerspacesim/pioneer)
+- **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. **[[Source: <img src="icons/cpp.svg" alt="C++" width="16" height="16"> <img src="icons/c.svg" alt="C" width="16" height="16"> <img src="icons/lua.svg" alt="Lua" width="16" height="16">]](https://github.com/pioneerspacesim/pioneer)**
 
-- **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
+- **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. **[[Source: <img src="icons/cpp.svg" alt="C++" width="16" height="16"> <img src="icons/c.svg" alt="C" width="16" height="16">]](https://github.com/scummvm/scummvm)**
 
-- **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile Twilight Princess into human-readable and modifiable source code. [[source]](https://github.com/zeldaret/tp)
+- **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile Twilight Princess into human-readable and modifiable source code. **[[Source: <img src="icons/cpp.svg" alt="C++" width="16" height="16"> <img src="icons/c.svg" alt="C" width="16" height="16">]](https://github.com/zeldaret/tp)**
 
-- **Zelda 3** - A reverse engineered clone of Zelda 3 - A Link to the Past. [[source]](https://github.com/snesrev/zelda3)
+- **Zelda 3** - A reverse engineered clone of Zelda 3 - A Link to the Past. **[[Source: <img src="icons/c.svg" alt="C" width="16" height="16"> <img src="icons/python.svg" alt="C" width="16" height="16">]](https://github.com/snesrev/zelda3)**
 
 ## Business and Tycoon games
 

@@ -56,7 +56,11 @@ This is a list of different open-source video games and commercial video games o
 
 - **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade Javascript port of the open-source city simulator *[Micropolis](https://mvolution.itch.io/micropolis)*. [[source]](https://github.com/graememcc/micropolisJS)
 
-- **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building. [[source]](https://github.com/unknown-horizons/unknown-horizons) [[engine-source]](https://github.com/fifengine/fifengine) [[godot-port]](https://github.com/unknown-horizons/godot-port)
+- **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building.
+
+  - **Original:** [[source]](https://github.com/unknown-horizons/unknown-horizons) **Engine:** [FIFE](https://www.fifengine.net/) [[source]](https://github.com/fifengine/fifengine)
+
+  - **Godot port:** [[source]](https://github.com/unknown-horizons/godot-port) **Engine:** [Godot](https://godotengine.org) [[source]](https://github.com/godotengine/godot)
 
 ## First-Person games
 
@@ -68,7 +72,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3)
 
-- **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) [[engine source]](https://github.com/godotengine/godot)
+- **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) **Engine:** [Godot](https://godotengine.org) [[source]](https://github.com/godotengine/godot)
 
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
@@ -88,25 +92,25 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [[source]](https://github.com/id-Software/wolf3d)
 
-#### Source Ports and Re-Implementations
+#### **Source Ports and Re-Implementations**
 
-- [Catacomb 3-D](https://en.wikipedia.org/wiki/Catacomb_3-D)
+- **[Catacomb 3-D](https://en.wikipedia.org/wiki/Catacomb_3-D)**
 
   - **CatacombGL** -  A source port of Catacomb 3D and the Catacomb Adventure series. [[source]](https://github.com/ArnoAnsems/CatacombGL)
 
-- Doom
+- **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))**
 
-  - [Chocolate Doom](https://www.chocolate-doom.org) - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [[source]](https://github.com/chocolate-doom/chocolate-doom)
+  - **[Chocolate Doom](https://www.chocolate-doom.org)** - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [[source]](https://github.com/chocolate-doom/chocolate-doom)
 
-  - [ZDoom](https://zdoom.org) - A feature centric port for all Doom engine games. [[source]](https://github.com/UZDoom/UZDoom)
+  - **[ZDoom](https://zdoom.org)** - A feature centric port for all Doom engine games. [[source]](https://github.com/UZDoom/UZDoom)
 
-- Quake
+- **[Quake](https://en.wikipedia.org/wiki/Quake_(video_game))**
 
   - **Chocolate Quake** - A purist Quake source port that restores the original look and feel of v1.09 and earlier. [[source]](https://github.com/Henrique194/chocolate-quake)
 
-  - [FTEQW](https://www.fteqw.org) - Powerful engine for playing and modding idTech based games. [[source]](https://github.com/fte-team/fteqw)
+  - **[FTEQW](https://www.fteqw.org)** - Powerful engine for playing and modding idTech based games. [[source]](https://github.com/fte-team/fteqw)
 
-- Wolfenstein 3D
+- **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)**
 
   - **ECWolf** - A port of the Wolfenstein 3D engine based of Wolf4SDL. [[source]](https://bitbucket.org/ecwolf/ecwolf)
 
@@ -114,19 +118,32 @@ This is a list of different open-source video games and commercial video games o
 
 ## Platformers
 
-- **[Commander Keen in Keen Dreams](https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams)** - A side-scrolling platform video game developed by id Software. [[source]](https://github.com/keendreams/keen)
+- **[Commander Keen](https://en.wikipedia.org/wiki/Commander_Keen)**
+
+  - **Commander-Genius** - An open-source interpreter for the
+Commander Keen (1-6, Dreams) and [Cosmo's Cosmic](https://en.wikipedia.org/wiki/Cosmo%27s_Cosmic_Adventure) series
+which allows you to play the original episodes and
+some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Commander-Genius)
+
+  - **[Commander Keen in Keen Dreams](https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams)** - A side-scrolling platform video game developed by id Software. [[source]](https://github.com/keendreams/keen)
+
+  - **Omnispeak** - An open-source re-implementation of [Commander Keen in Goodbye Galaxy](https://en.wikipedia.org/wiki/Commander_Keen_in_Goodbye,_Galaxy). [[source]](https://github.com/sulix/omnispeak)
 
 - **[DDraceNetwork](https://ddnet.tw)** - Cooperative 2D online platformer. [[source]](https://github.com/ddnet/ddnet)
 
-- **[Fish Folk: Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [[source]](https://github.com/fishfolk/jumpy) [[engine source]](https://github.com/bevyengine/bevy)
+- **[Fish Folk](https://fishfolk.org) Games**
 
-- **[OpenGOAL](https://opengoal.dev)** - This project is to port **Jak & Daxter Series** to PC. [[source]](https://github.com/water111/jak-project)
+  - **[Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [[source]](https://github.com/fishfolk/jumpy) **Engine:** [Bevy](https://bevy.org/) [[source]](https://github.com/bevyengine/bevy)
+
+  - **[Punchy](https://github.com/fishfolk/punchy)** - A 2.5D side-scroller beatemup, made in Bevy. **Engine:** [Bevy](https://bevy.org/) [[source]](https://github.com/bevyengine/bevy)
+
+- **[OpenGOAL](https://opengoal.dev)** - This project is to port [Jak & Daxter Series](https://en.wikipedia.org/wiki/Jak_and_Daxter) to PC. [[source]](https://github.com/water111/jak-project)
 
 - **Rigel Engine** - This project is a re-implementation of the game [Duke Nukem II](https://en.wikipedia.org/wiki/Duke_Nukem_II), originally released by Apogee Software in 1993 for MS-DOS. [[source]](https://github.com/lethal-guitar/RigelEngine)
 
 - **[Sonic Robo Blast 2](https://www.srb2.org)** - A 3D open-source Sonic the Hedgehog fangame built on Doom. [[source]](https://git.do.srb2.org/STJr/SRB2)
 
-- **Super Mario 64** - A full decompilation of Super Mario 64. [[source]](https://github.com/n64decomp/sm64)
+- **Super Mario 64** - A full decompilation of [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64). [[source]](https://github.com/n64decomp/sm64)
 
 - **[VVVVVV](https://thelettervsixtim.es/)** - [[source]](https://github.com/TerryCavanagh/VVVVVV)
 

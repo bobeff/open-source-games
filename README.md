@@ -60,7 +60,7 @@ This is a list of different open-source video games and commercial video games o
 
 ## First-Person games
 
-- **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of Farbrausch), which won first place in the 96k game competition at Breakpoint in April 2004. [[source]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger)
+- **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of [Farbrausch](https://en.wikipedia.org/wiki/Farbrausch)), which won first place in the 96k game competition at [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint_(demoparty)) in April 2004. [[source]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger)
 
 - **[Anarch](https://drummyfish.gitlab.io/anarch)** - This isn't a 90s style retro shooter, this is a 90s shooter. [[source]](https://gitlab.com/drummyfish/anarch)
 
@@ -68,23 +68,49 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3)
 
-- **DOOM** - [[source]](https://github.com/id-Software/DOOM)
-
-- **DOOM64-RE** - Complete reverse engineering of Doom 64. [[source]](https://github.com/Erick194/DOOM64-RE)
-
-- **Doom 3 BFG Edition** - [[source]](https://github.com/id-Software/DOOM-3-BFG)
-
 - **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) [[engine source]](https://github.com/godotengine/godot)
 
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
-- **Quake** - [[source]](https://github.com/id-Software/Quake)
+### **[id Software](https://en.wikipedia.org/wiki/Id_Software) Games**
 
-- **Quake 2** - [[source]](https://github.com/id-Software/Quake-2)
+- **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))** - [[source]](https://github.com/id-Software/DOOM)
 
-- **Quake III Arena** - [[source]](https://github.com/id-Software/Quake-III-Arena)
+- **DOOM64-RE** - Complete reverse engineering of [Doom 64](https://en.wikipedia.org/wiki/Doom_64). [[source]](https://github.com/Erick194/DOOM64-RE)
 
-- **Wolfenstein 3D** - [[source]](https://github.com/id-Software/wolf3d)
+- **[Doom 3](https://en.wikipedia.org/wiki/Doom_3) BFG Edition** - [[source]](https://github.com/id-Software/DOOM-3-BFG)
+
+- **[Quake](https://en.wikipedia.org/wiki/Quake_(video_game))** - [[source]](https://github.com/id-Software/Quake)
+
+- **[Quake II](https://en.wikipedia.org/wiki/Quake_II)** - [[source]](https://github.com/id-Software/Quake-2)
+
+- **[Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)** - [[source]](https://github.com/id-Software/Quake-III-Arena)
+
+- **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [[source]](https://github.com/id-Software/wolf3d)
+
+#### Source Ports and Re-Implementations
+
+- [Catacomb 3-D](https://en.wikipedia.org/wiki/Catacomb_3-D)
+
+  - **CatacombGL** -  A source port of Catacomb 3D and the Catacomb Adventure series. [[source]](https://github.com/ArnoAnsems/CatacombGL)
+
+- Doom
+
+  - [Chocolate Doom](https://www.chocolate-doom.org) - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [[source]](https://github.com/chocolate-doom/chocolate-doom)
+
+  - [ZDoom](https://zdoom.org) - A feature centric port for all Doom engine games. [[source]](https://github.com/UZDoom/UZDoom)
+
+- Quake
+
+  - **Chocolate Quake** - A purist Quake source port that restores the original look and feel of v1.09 and earlier. [[source]](https://github.com/Henrique194/chocolate-quake)
+
+  - [FTEQW](https://www.fteqw.org) - Powerful engine for playing and modding idTech based games. [[source]](https://github.com/fte-team/fteqw)
+
+- Wolfenstein 3D
+
+  - **ECWolf** - A port of the Wolfenstein 3D engine based of Wolf4SDL. [[source]](https://bitbucket.org/ecwolf/ecwolf)
+
+  - **Wolf4SDL** - An open-source port of id Software's classic first-person shooter Wolfenstein 3D to the cross-platform multimedia library SDL. [[source]](https://github.com/lazd/wolf4sdl)
 
 ## Platformers
 

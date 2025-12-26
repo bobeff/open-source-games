@@ -151,46 +151,48 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
-- **Portal64** - A demake (remake for an older platform) of Portal for the Nintendo 64. [[source]](https://github.com/lambertjamesd/portal64)
+- **Portal64** - A demake (remake for an older platform) of [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) for the Nintendo 64. [[source]](https://github.com/mwpenny/portal64-still-alive)
 
 ## Racing games
 
-- **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game wipEout. [[source]](https://github.com/phoboslab/wipeout-rewrite)
+- **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game [Wipeout](https://en.wikipedia.org/wiki/Wipeout_(video_game)). [[source]](https://github.com/phoboslab/wipeout-rewrite)
 
 ## Real-Time strategies
 
-- **[0 A.D.](https://play0ad.com)** -  A free, open-source game of ancient warfare. [[source]](https://github.com/0ad/0ad)
+- **[0 A.D.](https://play0ad.com)** -  A free, open-source game of ancient warfare. [[source]](https://gitea.wildfiregames.com/0ad/0ad)
 
-- **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [[source]](https://github.com/beyond-all-reason/Beyond-All-Reason) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
-
-- **Command & Conquer Generals** - Command & Conquer Generals, and its expansion pack Zero Hour. [[source]](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
-
-- **Command & Conquer Red Alert** - [[source]](https://github.com/electronicarts/CnC_Red_Alert)
-
-- **Command & Conquer Remastered Collection** - TiberianDawn.dll, RedAlert.dll and the Map Editor for the Command & Conquer Remastered Collection. [[source]](https://github.com/electronicarts/CnC_Remastered_Collection)
-
-- **Command and Conquer Tiberian Dawn** - [[source]](https://github.com/electronicarts/CnC_Tiberian_Dawn)
+- **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [[source]](https://github.com/beyond-all-reason/Beyond-All-Reason) **Engine: [Spring](https://springrts.com)** [[source]](https://github.com/spring/spring)
 
 - **[Dune II The Maker](https://dune2themaker.fundynamic.com)** - A Dune 2 remake. [[source]](https://github.com/stefanhendriks/Dune-II---The-Maker)
 
-- **Freeserf.net** - Аn authentic remake of the game The Settlers I by BlueByte. [[source]](https://github.com/Pyrdacor/freeserf.net)
+- **Freeserf.net** - Аn authentic remake of the game [The Settlers I](https://en.wikipedia.org/wiki/The_Settlers) by [BlueByte](https://en.wikipedia.org/wiki/Ubisoft_Blue_Byte). [[source]](https://github.com/Pyrdacor/freeserf.net)
 
-- **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of Dungeon Keeper. [[source]](https://github.com/dkfans/keeperfx)
+- **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper). [[source]](https://github.com/dkfans/keeperfx)
 
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)
 
-- **[OpenAge](https://openage.sft.mx)** - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of Age of Empires. [[source]](https://github.com/SFTtech/openage)
+- **[OpenAge](https://openage.sft.mx)** - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). [[source]](https://github.com/SFTtech/openage)
 
 - **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [[source]](https://github.com/OpenHV/OpenHV)
 
-- **[OpenRA](https://www.openra.net)** - Command & Conquer, Dune 2000 and Red Alert rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)
+- **[OpenRA](https://www.openra.net)** - [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer), [Dune 2000](https://en.wikipedia.org/wiki/Dune_2000) and [Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)
 
 - **Permafrost Engine** - An OpenGL 3.3 Real Time Strategy game engine written in C. [[source]](https://github.com/eduard-permyakov/permafrost-engine)
 
 - **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
 
 - **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units
-and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) [[engine]](https://springrts.com) [[engine source]](https://github.com/spring/spring)
+and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Spring](https://springrts.com)** [[source]](https://github.com/spring/spring)
+
+### **[Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) and [EA](https://en.wikipedia.org/wiki/Electronic_Arts) Games from [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) Series**
+
+- **Command & Conquer Remastered Collection** - TiberianDawn.dll, RedAlert.dll and the Map Editor for the [Command & Conquer Remastered Collection](https://en.wikipedia.org/wiki/Command_%26_Conquer_Remastered_Collection). [[source]](https://github.com/electronicarts/CnC_Remastered_Collection)
+
+- **Generals** - [Command & Conquer Generals]((https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals)), and its expansion pack [Zero Hour](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals_%E2%80%93_Zero_Hour). [[source]](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
+
+- **[Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)** - [[source]](https://github.com/electronicarts/CnC_Red_Alert)
+
+- **[Tiberian Dawn](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game))** - [[source]](https://github.com/electronicarts/CnC_Tiberian_Dawn)
 
 ## Roguelikes
 

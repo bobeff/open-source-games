@@ -76,7 +76,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
-### **[id Software](https://en.wikipedia.org/wiki/Id_Software) Games**
+### *[id Software](https://en.wikipedia.org/wiki/Id_Software) Games*
 
 - **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))** - [[source]](https://github.com/id-Software/DOOM)
 
@@ -92,7 +92,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [[source]](https://github.com/id-Software/wolf3d)
 
-#### **Source Ports and Re-Implementations**
+#### *Source Ports and Re-Implementations*
 
 - **[Catacomb 3-D](https://en.wikipedia.org/wiki/Catacomb_3-D)**
 
@@ -184,11 +184,27 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 - **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units
 and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Spring](https://springrts.com)** [[source]](https://github.com/spring/spring)
 
-### **[Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) and [EA](https://en.wikipedia.org/wiki/Electronic_Arts) Games from [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) Series**
+### *[Blizzard Entertainment](https://en.wikipedia.org/wiki/Blizzard_Entertainment) Games Re-Implementations*
+
+- **OpenBW** - Free and open-source Best Wargame. [[source]](https://github.com/OpenBW/openbw) **[Brood War API](https://bwapi.github.io)** [[source]](https://github.com/OpenBW/bwapi)
+
+- **[Strategus](https://stratagus.com)** Engine Games [[source]](https://github.com/Wargus/stratagus)
+
+  - **[War1gus](https://stratagus.com/war1gus.html)** - A re-implementation of [Warcraft: Orcs & Humans](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans) that that can be played on modern platforms. [[source]](https://github.com/Wargus/war1gus)
+
+  - **[Wargus](https://stratagus.com)** - Importer and scripts for [Warcraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness), the expansion [Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal), and Aleonas Tales. [[source]](https://github.com/Wargus/wargus)
+
+  - **[Wyrmsun](https://andrettin.github.io)** - A strategy game which features elements of mythology, history and fiction. [[source]](https://github.com/Andrettin/Wyrmsun)
+
+  - **[Stargus](https://stratagus.com/stratagus.html)** - Importer and scripts for [Starcraft](https://en.wikipedia.org/wiki/StarCraft). [[source]](https://github.com/Wargus/stargus)
+
+- **Warsmash Mod Engine** - An emulation engine to improve Warcraft III modding. [[source]](https://github.com/Retera/WarsmashModEngine) **Engine: [LibGDX](https://libgdx.com)** [[source]](https://github.com/libgdx/libgdx)
+
+### *[Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) and [EA](https://en.wikipedia.org/wiki/Electronic_Arts) Games from [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) Series*
 
 - **Command & Conquer Remastered Collection** - TiberianDawn.dll, RedAlert.dll and the Map Editor for the [Command & Conquer Remastered Collection](https://en.wikipedia.org/wiki/Command_%26_Conquer_Remastered_Collection). [[source]](https://github.com/electronicarts/CnC_Remastered_Collection)
 
-- **Generals** - [Command & Conquer Generals]((https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals)), and its expansion pack [Zero Hour](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals_%E2%80%93_Zero_Hour). [[source]](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
+- **Generals** - [Command & Conquer Generals](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals), and its expansion pack [Zero Hour](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals_%E2%80%93_Zero_Hour). [[source]](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
 
 - **[Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)** - [[source]](https://github.com/electronicarts/CnC_Red_Alert)
 

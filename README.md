@@ -58,9 +58,9 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building.
 
-  - **Original:** [[source]](https://github.com/unknown-horizons/unknown-horizons) **Engine:** [FIFE](https://www.fifengine.net/) [[source]](https://github.com/fifengine/fifengine)
+  - **Original:** [[source]](https://github.com/unknown-horizons/unknown-horizons) **Engine: [FIFE](https://www.fifengine.net/)** [[source]](https://github.com/fifengine/fifengine)
 
-  - **Godot port:** [[source]](https://github.com/unknown-horizons/godot-port) **Engine:** [Godot](https://godotengine.org) [[source]](https://github.com/godotengine/godot)
+  - **Godot port:** [[source]](https://github.com/unknown-horizons/godot-port) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot)
 
 ## First-Person games
 
@@ -72,7 +72,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3)
 
-- **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) **Engine:** [Godot](https://godotengine.org) [[source]](https://github.com/godotengine/godot)
+- **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot)
 
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
@@ -133,9 +133,9 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[Fish Folk](https://fishfolk.org) Games**
 
-  - **[Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [[source]](https://github.com/fishfolk/jumpy) **Engine:** [Bevy](https://bevy.org/) [[source]](https://github.com/bevyengine/bevy)
+  - **[Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [[source]](https://github.com/fishfolk/jumpy) **Engine: [Bevy](https://bevy.org/)** [[source]](https://github.com/bevyengine/bevy)
 
-  - **[Punchy](https://github.com/fishfolk/punchy)** - A 2.5D side-scroller beatemup, made in Bevy. **Engine:** [Bevy](https://bevy.org/) [[source]](https://github.com/bevyengine/bevy)
+  - **[Punchy](https://github.com/fishfolk/punchy)** - A 2.5D side-scroller beatemup, made in Bevy. **Engine: [Bevy](https://bevy.org/)** [[source]](https://github.com/bevyengine/bevy)
 
 - **[OpenGOAL](https://opengoal.dev)** - This project is to port [Jak & Daxter Series](https://en.wikipedia.org/wiki/Jak_and_Daxter) to PC. [[source]](https://github.com/water111/jak-project)
 

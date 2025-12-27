@@ -229,6 +229,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Meritous](http://asceai.net/meritous)** - An action-adventure dungeon crawl game. [[source]](https://github.com/Patashu/Meritous)
 
+- **OpenNefia** - Moddable engine reimplementation of the Japanese roguelike [Elona](https://en.wikipedia.org/wiki/Elona_(video_game)). [[source]](https://github.com/OpenNefia/OpenNefia)
+
 - **[Shattered Pixel Dungeon](https://shatteredpixel.com)** - An open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. [[source]](https://github.com/00-Evan/shattered-pixel-dungeon)
 
 ## Role-Playing games

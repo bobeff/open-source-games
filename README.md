@@ -311,13 +311,13 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **CroftEngine** - An open-source [Tomb Raider 1](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)) engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)
 
-- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[soruce]](https://github.com/WolfireGames/lugaru)
+- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[source]](https://github.com/WolfireGames/lugaru)
 
 - **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine. [[source]](https://github.com/XProger/OpenLara)
 
 - **[OpenRW](https://openrw.org)** - A [Grand Theft Auto III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) re-implementation. [[source]](https://github.com/rwengine/openrw)
 
-- **[Overgrowth](https://overgrowth.wolfire.com)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
+- **[Overgrowth](https://overgrowth.wolfire.com)** - The sequel to Lugaru. [[source]](https://github.com/WolfireGames/overgrowth)
 
 - **RE3** - The fully reversed source code for [GTA III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) and [GTA VC](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City). [[source]](https://github.com/VideogameSources/gta3-decomp-alt)
 

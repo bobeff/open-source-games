@@ -69,6 +69,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Anarch](https://drummyfish.gitlab.io/anarch)** - This isn't a 90s style retro shooter, this is a 90s shooter. [[source]](https://gitlab.com/drummyfish/anarch)
 
+- **[AssaultCube](https://assault.cubers.net)** - A FREE, multiplayer, first-person shooter game. [[source]](https://github.com/assaultcube/AC) **Engine: [CUBE](http://cubeengine.com)** [[source]](https://github.com/bsegovia/cube)
+
 - **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten)
 
 - **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3)

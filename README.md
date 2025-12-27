@@ -221,6 +221,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Tiberian Dawn](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game))** - [[source]](https://github.com/electronicarts/CnC_Tiberian_Dawn)
 
+- **Standard Of Iron** - A modern real-time strategy (RTS) game engine built with C++20, Qt 6, and OpenGL 3.3 Core. [[source]](https://github.com/djeada/Standard-of-Iron)
+
 ## Roguelikes
 
 - **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)

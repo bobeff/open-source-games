@@ -269,6 +269,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **OpenEnroth** - [Might and Magic VI-VIII](https://en.wikipedia.org/wiki/Might_and_Magic) engine remake using original data & code. [[source]](https://github.com/OpenEnroth/OpenEnroth)
 
+- **Open-Ko** - An open source version of the old school Knight Online MMORPG. [[source]](https://github.com/Open-KO/KnightOnline) 
+
 - **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind). [[source]](https://github.com/OpenMW/openmw)
 
 - **OpenNox** - An open-source community collaboration project extending the Nox engine. [[source]](https://github.com/noxworld-dev/opennox)

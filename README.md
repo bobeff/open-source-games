@@ -27,6 +27,8 @@ This is a list of different open-source video games and commercial video games o
 
 ## Adventure games
 
+- **[Endless Sky](https://endless-sky.github.io)** - Space exploration, trading, and combat game. [[source]](https://github.com/endless-sky/endless-sky)
+
 - **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [[source]](https://github.com/pioneerspacesim/pioneer)
 
 - **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)

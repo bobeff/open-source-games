@@ -18,7 +18,6 @@ This is a list of different open-source video games and commercial video games o
 - [Shoot 'em up games](#shoot-em-up-games)
 - [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
-- [Tower Defense games](#tower-defence-games)
 - [Turn-Based strategies](#turn-based-strategies)
 - [Other lists](#other-lists)
 
@@ -280,39 +279,35 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ## Sandbox games
 
-- **Minosoft** - An open source minecraft client, written from scratch in kotlin (and java). [[source]](https://github.com/bixilon/minosoft)
+- **Minosoft** - An open source minecraft client, written from scratch in Kotlin (and java). [[source]](https://github.com/bixilon/minosoft) [[source]](https://gitlab.bixilon.de/bixilon/minosoft)
 
 ## Shoot 'em up games
 
-- **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. **[[source]](https://github.com/fragglet/sdl-sopwith)**
+- **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [[source]](https://github.com/fragglet/sdl-sopwith)
 
 ## Sport games
 
-- **Open Golf** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
+- **[Open Golf](https://mgerdes.github.io/minigolf.html)** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
 
-- **Pooltool** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)
+- **[Pooltool](https://pooltool.readthedocs.io)** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)
 
 ## Third-Person games
 
-- **Command & Conquer Renegade** - [[source]](https://github.com/electronicarts/CnC_Renegade)
+- **[Command & Conquer Renegade](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Renegade)** - [[source]](https://github.com/electronicarts/CnC_Renegade)
 
-- **CroftEngine** - An open-source Tomb Raider 1 engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)
+- **CroftEngine** - An open-source [Tomb Raider 1](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)) engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)
 
 - **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[soruce]](https://github.com/WolfireGames/lugaru)
 
-- **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine [[source]](https://github.com/XProger/OpenLara)
+- **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine. [[source]](https://github.com/XProger/OpenLara)
 
-- **[OpenRW](https://openrw.org)** - A Grand Theft Auto III re-implementation. [[source]](https://github.com/rwengine/openrw)
+- **[OpenRW](https://openrw.org)** - A [Grand Theft Auto III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) re-implementation. [[source]](https://github.com/rwengine/openrw)
 
 - **[Overgrowth](https://overgrowth.wolfire.com)** - The sequel to Lugaru. [[soruce]](https://github.com/WolfireGames/overgrowth)
 
-- **RE3** - The fully reversed source code for GTA III and GTA VC. [[source]](https://github.com/halpz/re3)
+- **RE3** - The fully reversed source code for [GTA III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) and [GTA VC](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City). [[source]](https://github.com/VideogameSources/gta3-decomp-alt)
 
-- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom Tomb Raider adventures. [[dource]](https://github.com/TombEngine/TombEngine)
-
-## Tower Defense games
-
-- **Izowave** - Your task is to survive on chosen planet as many waves as possible. [[source]](https://github.com/neki-dev/izowave)
+- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider) adventures. Core Design era (1 - 5). [[source]](https://github.com/TombEngine/TombEngine)
 
 ## Turn-Based strategies
 
@@ -320,23 +315,23 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 
-- **fheroes2** - A recreation of Heroes of Might and Magic II game engine. [[source]](https://github.com/ihhub/fheroes2)
+- **[fheroes2](https://ihhub.github.io/fheroes2)** - A recreation of [Heroes of Might and Magic II](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) game engine. [[source]](https://github.com/ihhub/fheroes2)
 
-- **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game Colonization, and similar to Civilization. [[source]](https://github.com/FreeCol/freecol)
+- **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game[Colonization](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization), and similar to [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)). [[source]](https://github.com/FreeCol/freecol)
 
 - **[Freeciv](http://www.freeciv.org/)** - A Free and Open Source empire-building strategy game. [[source]](https://github.com/freeciv/freeciv)
 
 - **[FreeOrion](https://www.freeorion.org/index.php/Main_Page)** - A free, open source, turn-based space empire and galactic conquest (4X) computer game. [[source]](https://github.com/freeorion/freeorion)
 
-- **[OpenPanzer](https://www.linuxconsulting.ro/openpanzer)** - Javascript/HTML5 rewrite of Panzer General 2 game. [[source]](https://github.com/nicupavel/openpanzer)
+- **[OpenPanzer](https://www.linuxconsulting.ro/openpanzer)** - Javascript/HTML5 rewrite of [Panzer General II](https://en.wikipedia.org/wiki/Panzer_General_II) game. [[source]](https://github.com/nicupavel/openpanzer)
 
-- **[OpenXcom](https://openxcom.org/)** - An open-source clone of the popular "**UFO: Enemy Unknown**" and "**X-COM: Terror From the Deep**" videogames by Micropros. [[source]](https://github.com/OpenXcom/OpenXcom)
+- **[OpenXcom](https://openxcom.org/)** - An open-source clone of the popular [UFO: Enemy Unknown](https://en.wikipedia.org/wiki/UFO:_Enemy_Unknown) and [X-COM: Terror From the Deep](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep) video games by [MicroPros](https://en.wikipedia.org/wiki/MicroProse). [[source]](https://github.com/OpenXcom/OpenXcom)
 
 - **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [[source]](https://github.com/wesnoth/wesnoth)
 
-- **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of Civilization V. [[source]](https://github.com/yairm210/Unciv)
+- **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of [Civilization V](https://en.wikipedia.org/wiki/Civilization_V). [[source]](https://github.com/yairm210/Unciv)
 
-- **[VCMI Project](https://vcmi.eu)** - Open-source engine for Heroes of Might and Magic III. [[source]](https://github.com/vcmi/vcmi)
+- **[VCMI Project](https://vcmi.eu)** - Open-source engine for [Heroes of Might and Magic III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III). [[source]](https://github.com/vcmi/vcmi)
 
 ## Other lists
 

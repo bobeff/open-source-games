@@ -224,37 +224,59 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ## Role-Playing games
 
-- **Ambermoon.net** - A full C# rewrite of Ambermoon. [[source]](https://github.com/Pyrdacor/Ambermoon.net)
+- **[Ambermoon.net](https://pyrdacor.itch.io/ambermoon)** - A full C# rewrite of [Ambermoon](https://en.wikipedia.org/wiki/Ambermoon). [[source]](https://github.com/Pyrdacor/Ambermoon.net)
 
 - **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [[source]](https://github.com/Interkarma/daggerfall-unity)
 
-- **DevilutionX** - A port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [[source]](https://github.com/diasurgical/devilutionX)
+- **[Exult](https://exult.sourceforge.io)** - A project to recreate [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) for modern operating systems. [[source]](https://github.com/exult/exult)
 
-- **[Exult](https://exult.sourceforge.io)** - A project to recreate Ultima VII for modern operating systems. [[source]](https://github.com/exult/exult)
+- **Fallout Community Edition** - A fully working re-implementation of [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game)). [[source]](https://github.com/alexbatalov/fallout1-ce)
 
-- **Fallout Community Edition** - A fully working re-implementation of Fallout. [[source]](https://github.com/alexbatalov/fallout1-ce)
+- **Fallout 2 Community Edition** - A fully working re-implementation of [Fallout 2](https://en.wikipedia.org/wiki/Fallout_2). [[source]](https://github.com/alexbatalov/fallout2-ce)
 
-- **Fallout 2 Community Edition** - A fully working re-implementation of Fallout 2. [[source]](https://github.com/alexbatalov/fallout2-ce)
+- **[GemRB](https://gemrb.org)** - A portable open-source implementation of Bioware’s [Infinity Engine](https://en.wikipedia.org/wiki/Infinity_Engine) [[source]](https://en.wikipedia.org/wiki/Infinity_Engine)
 
-- **[Kandria](https://kandria.com)** - An action RPG made in Common Lisp. [[source]](https://github.com/Shirakumo/Kandria) [[engine source]](https://github.com/Shirakumo/trial)
+  **Supported games:**
 
-- **[Naev](https://naev.org)** - A 2d action/rpg space game that combines elements from the action, rpg and simulation genres. [[source]](https://github.com/naev/naev)
+  - [Baldur’s Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game))
+
+  - [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
+
+  - [Icewind Dale](https://en.wikipedia.org/wiki/Icewind_Dale)
+
+  - [Icewind Dale II](https://en.wikipedia.org/wiki/Icewind_Dale_II)
+
+  - [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment)
+
+- **[Kandria](https://kandria.com)** - An action RPG made in Common Lisp. [[source]](https://codeberg.org/shirakumo/kandria) **Engine: [Trial](https://shirakumo.org/docs/trial/)** [[source]](https://codeberg.org/shirakumo/trial)
+
+- **[Naev](https://naev.org)** - A 2d action/rpg space game that combines elements from the action, rpg and simulation genres. [[source]](https://codeberg.org/naev/naev)
 
 - **[Oolite](https://www.oolite.space/)** - An open-world space opera. [[source]](https://github.com/OoliteProject/oolite)
 
-- **OpenEnroth** - Might and Magic VI-VIII engine remake using original data & code. [[source]](https://github.com/OpenEnroth/OpenEnroth)
+- **OpenEnroth** - [Might and Magic VI-VIII](https://en.wikipedia.org/wiki/Might_and_Magic) engine remake using original data & code. [[source]](https://github.com/OpenEnroth/OpenEnroth)
 
-- **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game **The Elder Scrolls III: Morrowind**. [[source]](https://github.com/OpenMW/openmw)
+- **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind). [[source]](https://github.com/OpenMW/openmw)
 
 - **OpenNox** - An open-source community collaboration project extending the Nox engine. [[source]](https://github.com/noxworld-dev/opennox)
 
-- **reone** - A free and open source game engine, capable of running Star Wars: Knights of the Old Republic and its sequel, The Sith Lords. [[source]](https://github.com/seedhartha/reone)
+- **reone** - A free and open source game engine, capable of running [Star Wars: Knights of the Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic) and its sequel, [The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords). [[source]](https://github.com/seedhartha/reone)
 
-- **[Space Station 14](https://spacestation14.io/)** – Open-source remake of **Space Station 13**. [[source]](https://github.com/space-wizards/space-station-14)
+- **[Space Station 14](https://spacestation14.io/)** – Open-source remake of [Space Station 13](https://en.wikipedia.org/wiki/Space_Station_13). [[source]](https://github.com/space-wizards/space-station-14)
 
-- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for Ultima VII that presents the game in 3D and fixes various issue with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
+- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) that presents the game in 3D and fixes various issue with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
+
+### *[Diablo](https://en.wikipedia.org/wiki/Diablo_(series)) Re-Implementations*
+
+- **Abyss Engine** - Clean-room reimplementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II), written in C. [[source]](https://github.com/AbyssEngine/AbyssEngine)
+
+- **[DevilutionX](https://devilutionx.com/)** - A port of [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)) and [Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [[source]](https://github.com/diasurgical/devilutionX)
+
+- **[Freeablo](https://freeablo.org)** - A work-in-progress free and open-source replacement for the [Diablo I](https://en.wikipedia.org/wiki/Diablo_(video_game)) engine. [[source]](https://github.com/wheybags/freeablo)
+
+- **Open Diablo II** - An open source re-implementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II). [[source]](https://github.com/OpenDiablo2/OpenDiablo2)
 
 ## Sandbox games
 

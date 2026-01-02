@@ -68,6 +68,7 @@ This is a list of different open-source video games and commercial video games o
 
   - **Godot port:** [[source]](https://github.com/unknown-horizons/godot-port) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot)
 
+ - **[IsoCity](iso-city.com)**: Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [[source]](https://github.com/amilich/isometric-city)
 ## First-Person games
 
 - **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of [Farbrausch](https://en.wikipedia.org/wiki/Farbrausch)), which won first place in the 96k game competition at [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint_(demoparty)) in April 2004. [[source]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger)

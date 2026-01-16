@@ -212,8 +212,6 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[Rigs of Rods](https://www.rigsofrods.org)** -  An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [[source]](https://github.com/RigsOfRods/rigs-of-rods) **Engine: [OGRE](https://www.ogre3d.org)** [[source]](https://github.com/OGRECave) **UI: [Dear ImGui](https://www.dearimgui.com)** [[source]](https://github.com/ocornut/imgui)
 
-- **[RVGL](https://re-volt.io)** - A cross-platform rewrite / port of [Re-Volt](https://en.wikipedia.org/wiki/Re-Volt) that runs natively on both Windows and GNU/Linux. [[source]](https://gitlab.com/re-volt)
-
 - **[Speed Dreams](https://www.speed-dreams.net)** - A free and open source motorsport simulator. [[source]](https://forge.a-lec.org/xavi/speed-dreams-code)
 
 - **[Stunt Rally](https://stuntrally.tuxfamily.org)** - 3D racing game with Sci-Fi elements and own Track Editor. [[source]](https://github.com/stuntrally/stuntrally3)

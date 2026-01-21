@@ -178,7 +178,7 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
   - **Omnispeak** - An open-source re-implementation of [Commander Keen in Goodbye Galaxy](https://en.wikipedia.org/wiki/Commander_Keen_in_Goodbye,_Galaxy). [[source]](https://github.com/sulix/omnispeak)
 
-- **[DDraceNetwork](https://ddnet.tw)** - Cooperative 2D online platformer. [[source]](https://github.com/ddnet/ddnet)
+- **[DDraceNetwork](https://ddnet.org)** - Cooperative 2D online platformer. [[source]](https://github.com/ddnet/ddnet)
 
 - **[Fish Folk](https://fishfolk.org) Games**
 

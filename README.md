@@ -29,7 +29,7 @@ This is a list of different open-source video games and commercial video games o
 
 ## Adventure games
 
-- **[Dead Ascend](https://blackgrain.dk/games/deadascend/)** - A zombie adventure, escape room, with twists. [[source]](https://github.com/larpon/DeadAscend)
+- **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - A zombie adventure, escape room, with twists. [[source]](https://github.com/larpon/DeadAscend)
 
 - **[Endless Sky](https://endless-sky.github.io)** - Space exploration, trading, and combat game. [[source]](https://github.com/endless-sky/endless-sky)
 

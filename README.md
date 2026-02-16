@@ -186,7 +186,7 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
   - **[Punchy](https://github.com/fishfolk/punchy)** - A 2.5D side-scroller beatemup, made in Bevy. **Engine: [Bevy](https://bevy.org/)** [[source]](https://github.com/bevyengine/bevy)
 
-- **[Frogatto](https://frogatto.com/)** - an action-adventure platformer game, starring a certain quixotic frog
+- **[Frogatto](https://frogatto.com/)** - an action-adventure platformer game, starring a certain quixotic frog [[source]](https://github.com/frogatto/frogatto), [[engine]](https://github.com/anura-engine/anura)
 
 - **[OpenGOAL](https://opengoal.dev)** - This project is to port [Jak & Daxter Series](https://en.wikipedia.org/wiki/Jak_and_Daxter) to PC. [[source]](https://github.com/water111/jak-project)
 

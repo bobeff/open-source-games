@@ -107,7 +107,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)** - By [3D Realms Entertainment, Inc](https://en.wikipedia.org/wiki/3D_Realms). [[source]](https://github.com/videogamepreservation/dukenukem3d)
 
-- **Shadow Warior** - Official source release for [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)). [[source]](https://github.com/Azarien/shadow-warrior)
+- **Shadow Warrior** - Official source release for [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)). [[source]](https://github.com/Azarien/shadow-warrior)
 
 #### *Source Ports and Re-Implementations*
 

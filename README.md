@@ -93,6 +93,10 @@ This is a list of different open-source video games and commercial video games o
 
 - **Surreal Engine** - [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament) Engine Reimplementation. [[source]](https://github.com/dpjudas/SurrealEngine)
 
+- **Xonotic** - [[source]](https://github.com/xonotic/xonotic)
+
+- **Unvanquished** - [[source]](https://github.com/Unvanquished/Unvanquished)
+
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
 - **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic)

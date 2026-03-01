@@ -6,6 +6,7 @@ This is a list of different open-source video games and commercial video games o
 
 - [Action games](#action-games)
 - [Adventure games](#adventure-games)
+- [Arcade games](#arcade-games)
 - [Business and Tycoon games](#business-and-tycoon-games)
 - [City-Building games](#city-building-games)
 - [First-Person games](#first-person-games)
@@ -40,6 +41,10 @@ This is a list of different open-source video games and commercial video games o
 - **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile *[Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)* into human-readable and modifiable source code. [[source]](https://github.com/zeldaret/tp)
 
 - **Zelda 3** - A reverse engineered clone of *[The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)*. [[source]](https://github.com/snesrev/zelda3)
+
+## Arcade games
+
+- **[osu!](https://osu.ppy.sh)** - Open source musical game, where you need to click the circles to the beat. [[source]](https://github.com/ppy/osu)
 
 ## Business and Tycoon games
 

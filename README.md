@@ -208,6 +208,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[Whatajong](https://whatajong.com)** - [[source]](https://github.com/masylum/whatajong)
 
+- **[Hextris](https://hextris.io/)** - Fast paced HTML5 puzzle game inspired by Tetris!. [[source]](https://github.com/Hextris/hextris)
+
 ## Racing games
 
 - **[Dust Racing 2D](https://github.com/juzzlin/DustRacing2D)** - A traditional top-down car racing game including a level editor. [[source]](https://github.com/cflavio/yorg)

@@ -95,6 +95,10 @@ This is a list of different open-source video games and commercial video games o
 
 - **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
+- **[Tremulous](https://tremulous.net)** - First-person aliens vs. humans real-time strategy game. [[source]](https://github.com/GrangerHub/tremulous)
+
+- **[Unvanquished](https://unvanquished.net)** - First-person aliens vs. humans real-time strategy game, continuation of Tremulous. [[source]](https://github.com/Unvanquished/Unvanquished) **Engine: [Dæmon](https://wiki.unvanquished.net/wiki/Daemon)** [[source]](https://github.com/DaemonEngine/Daemon)
+
 - **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic)
 
 ### *[Aliens Versus Predator](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_(1999_video_game)) game source ports*

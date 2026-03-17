@@ -214,6 +214,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[ManiaDrive](http://maniadrive.raydium.org)** - A free clone of [TrackMania](https://en.wikipedia.org/wiki/TrackMania), the great game from [Nadéo](https://en.wikipedia.org/wiki/Nadeo) studio. [[source]](http://maniadrive.raydium.org/index.php?downloads=yes) **Engine: [Raydium](https://raydium.org)** [[source]](https://raydium.org/data.php)
 
+- **[OpenMRac](https://www.franticware.com/openmrac)** -  A split-screen racing game. [[source]](https://github.com/Franticware/OpenMRac).
+
 - **[Rigs of Rods](https://www.rigsofrods.org)** -  An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [[source]](https://github.com/RigsOfRods/rigs-of-rods) **Engine: [OGRE](https://www.ogre3d.org)** [[source]](https://github.com/OGRECave) **UI: [Dear ImGui](https://www.dearimgui.com)** [[source]](https://github.com/ocornut/imgui)
 
 - **[RVGL](https://re-volt.io)** - A cross-platform rewrite / port of [Re-Volt](https://en.wikipedia.org/wiki/Re-Volt) that runs natively on both Windows and GNU/Linux. [[source]](https://gitlab.com/re-volt)

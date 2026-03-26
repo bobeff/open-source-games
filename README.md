@@ -355,6 +355,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
 
+- **[Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64)** - World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on the MIPS R4300i at 60 tok/s. A Zelda-style dungeon crawler with AI NPCs on 1996 console hardware. [[source]](https://github.com/Scottcjn/legend-of-elya-n64) **SDK: [libdragon](https://github.com/DragonMinded/libdragon)**
+
 ### *[Diablo](https://en.wikipedia.org/wiki/Diablo_(series)) Re-Implementations*
 
 - **Abyss Engine** - Clean-room reimplementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II), written in C. [[source]](https://github.com/AbyssEngine/AbyssEngine)

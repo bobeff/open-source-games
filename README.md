@@ -373,6 +373,7 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ## Sandbox games
 
+- **[Blocks Beyond the Stars](https://www.blocksbeyondthestars.com/en)** - Block-based 3D voxel space crafting game with procedurally generated star systems and client/server multiplayer. [[source]](https://github.com/marceld23/BlocksBeyondTheStars)
 - **Minosoft** - An open source minecraft client, written from scratch in Kotlin (and java). [[source]](https://github.com/bixilon/minosoft) [[source]](https://gitlab.bixilon.de/bixilon/minosoft)
 
 ## Shoot 'em up games

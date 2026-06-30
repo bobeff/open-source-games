@@ -373,6 +373,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ## Sandbox games
 
+- **[ALIS](https://fall.is)** - Open-source Unreal Engine 5 survival game set in a post-apocalyptic real-world city. [[source]](https://github.com/fallintodusk/alis)
+
 - **Minosoft** - An open source minecraft client, written from scratch in Kotlin (and java). [[source]](https://github.com/bixilon/minosoft) [[source]](https://gitlab.bixilon.de/bixilon/minosoft)
 
 ## Shoot 'em up games

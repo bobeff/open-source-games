@@ -383,6 +383,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ## Sport games
 
+- **[Hooping](https://hooping.io)** - A browser basketball game with deterministic physics. Six levels, one shot per level; miss and you start over. [[source]](https://github.com/douvy/hooping)
+
 - **[Open Golf](https://mgerdes.github.io/minigolf.html)** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
 
 - **[Pooltool](https://pooltool.readthedocs.io)** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)

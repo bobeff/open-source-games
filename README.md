@@ -437,6 +437,12 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[VCMI Project](https://vcmi.eu)** - Open-source engine for [Heroes of Might and Magic III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III). [[source]](https://github.com/vcmi/vcmi)
 
+## Trivia and geography games
+
+- **[World Chase](https://worldchase.net)** - Competitive weekly geography game. Decode cryptic riddles to find real-world locations on a map. Global leaderboard, VS duels, 25 new challenges every week. [[source]](https://github.com/JezKirkpatrick/WorldChase)
+
+- **[Kids World Chase](https://kidsworldchase.net)** - Weekly geography adventure for children aged 8-13. Solve riddles and explore real locations via Google Street View. [[source]](https://github.com/JezKirkpatrick/kids-world-chase)
+
 ## Other lists
 
 - **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)**

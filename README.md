@@ -311,6 +311,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Ambermoon.net](https://pyrdacor.itch.io/ambermoon)** - A full C# rewrite of [Ambermoon](https://en.wikipedia.org/wiki/Ambermoon). [[source]](https://github.com/Pyrdacor/Ambermoon.net)
 
+- **[Civic Nightmare](https://unityloop.itch.io/civic-nightmare)** - A satirical top-down RPG where renewing a passport means surviving playable bureaucracy. [[source]](https://github.com/Daniele-Cangi/civic-nightmare)
+
 - **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [[source]](https://github.com/Interkarma/daggerfall-unity)
 
 - **[Exult](https://exult.sourceforge.io)** - A project to recreate [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) for modern operating systems. [[source]](https://github.com/exult/exult)

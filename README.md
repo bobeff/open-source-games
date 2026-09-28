@@ -256,6 +256,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **Permafrost Engine** - An OpenGL 3.3 Real Time Strategy game engine written in C. [[source]](https://github.com/eduard-permyakov/permafrost-engine)
 
+- **[Quest for Duskara](https://dbhardwaj99.github.io/Quest-For-Duskara)** - A single-player island strategy game for macOS where you build a town, trade, raise an army, and conquer a 15-city archipelago. [[source]](https://github.com/Dbhardwaj99/Quest-For-Duskara)
+
 - **Standard Of Iron** - A modern real-time strategy (RTS) game engine built with C++20, Qt 6, and OpenGL 3.3 Core. [[source]](https://github.com/djeada/Standard-of-Iron)
 
 - **[Warzone 2100](https://wz2100.net)** -  A free, open source, 3D real-time strategy game with a story-driven single-player campaign, online multi-player, offline skirmish, and more. [[source]](https://github.com/Warzone2100/warzone2100)

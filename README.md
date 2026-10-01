@@ -206,6 +206,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **Portal64** - A demake (remake for an older platform) of [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) for the Nintendo 64. [[source]](https://github.com/mwpenny/portal64-still-alive)
 
+- **[Puzzle Press](https://puzzlepress.munzzyy.dev)** - Seven daily word and number puzzles on one page that works offline, with no ads or accounts. [[source]](https://github.com/munzzyy/puzzlepress)
+
 - **[Whatajong](https://whatajong.com)** - [[source]](https://github.com/masylum/whatajong)
 
 ## Racing games

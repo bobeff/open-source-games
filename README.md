@@ -248,6 +248,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)
 
+- **[Musket](https://musket.veered.org)** - A browser remake of Casual Collective's 2008 Flash game Minions: towers, minion squads of three, 1-12 players with bots. [[source]](https://github.com/veered-org/musket)
+
 - **[OpenAge](https://openage.sft.mx)** - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). [[source]](https://github.com/SFTtech/openage)
 
 - **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [[source]](https://github.com/OpenHV/OpenHV)

@@ -27,6 +27,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
 
+- **Street Fighter** - A 2D fighting game made with Python and Pygame where you play as a warrior against a computer-controlled wizard. [[source]](https://github.com/AadityaPanda/Street_Fighter)
+
 ## Adventure games
 
 - **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - A zombie adventure, escape room, with twists. [[source]](https://github.com/larpon/DeadAscend)

@@ -53,6 +53,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon *[Transport Tycoon Deluxe](https://en.wikipedia.org/wiki/Transport_Tycoon)*. [[source]](https://github.com/OpenTTD/OpenTTD)
 
+- **[Scam With Your Friends Web](https://scam.gamefun.world)** - Unofficial fan-made browser co-op call-center game with 3D office, WebRTC voice chat and AI callers. [[source]](https://github.com/mrzh7/scam-with-your-friends-web)
+
 ## City-Building games
 
 - **[Akhenaten](https://dalerank.itch.io/akhenaten)** - A strategic city-building game, based on assets and gameplay mechanics from *[Pharaoh + Cleopatra](https://en.wikipedia.org/wiki/Pharaoh_(video_game))* title, where players take on the role of a ruler and mayor of ancient Egyptian civilization. [[source]](https://github.com/dalerank/Akhenaten)

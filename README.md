@@ -383,6 +383,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ## Sport games
 
+- **[FsHockey](https://thorium.github.io/FsHockey)** - A retro-style ice hockey game inspired by Solar Hockey. [[source]](https://github.com/Thorium/FsHockey)
+
 - **[Open Golf](https://mgerdes.github.io/minigolf.html)** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
 
 - **[Pooltool](https://pooltool.readthedocs.io)** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)

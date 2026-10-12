@@ -204,6 +204,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
+- **[FsLemming](https://thorium.github.io/FsLemming)** - A Lemmings-like browser game written in F# with a message-passing architecture. [[source]](https://github.com/Thorium/FsLemming)
+
 - **Portal64** - A demake (remake for an older platform) of [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) for the Nintendo 64. [[source]](https://github.com/mwpenny/portal64-still-alive)
 
 - **[Whatajong](https://whatajong.com)** - [[source]](https://github.com/masylum/whatajong)

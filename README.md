@@ -9,6 +9,7 @@ This is a list of different open-source video games and commercial video games o
 - [Business and Tycoon games](#business-and-tycoon-games)
 - [City-Building games](#city-building-games)
 - [First-Person games](#first-person-games)
+- [Party games](#party-games)
 - [Platformers](#platformers)
 - [Puzzle games](#puzzle-games)
 - [Racing games](#racing-games)
@@ -166,6 +167,10 @@ This is a list of different open-source video games and commercial video games o
   - **ECWolf** - A port of the Wolfenstein 3D engine based of Wolf4SDL. [[source]](https://bitbucket.org/ecwolf/ecwolf)
 
   - **Wolf4SDL** - An open-source port of id Software's classic first-person shooter Wolfenstein 3D to the cross-platform multimedia library SDL. [[source]](https://github.com/lazd/wolf4sdl)
+
+## Party games
+
+- **[Open Party Lab](https://open-party-lab.onrender.com)** - Self-hostable party-game collection with a shared screen, phone browser controllers, and a TypeScript mini-game SDK. [[source]](https://github.com/Hartwich/Open-Party-Lab)
 
 ## Platformers
 

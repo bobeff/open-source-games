@@ -375,6 +375,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **Minosoft** - An open source minecraft client, written from scratch in Kotlin (and java). [[source]](https://github.com/bixilon/minosoft) [[source]](https://gitlab.bixilon.de/bixilon/minosoft)
 
+- **[The Human Box](https://thehumanbox.com)** - A free civilization sandbox that runs in the browser, where rule-based tribes invent their own languages, cultures and beliefs and move through 45 eras from the stone age to computers. Nothing is scripted. [[source]](https://github.com/1homsi/thehumanbox)
+
 ## Shoot 'em up games
 
 - **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [[source]](https://github.com/fragglet/sdl-sopwith)

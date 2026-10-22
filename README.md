@@ -53,6 +53,10 @@ This is a list of different open-source video games and commercial video games o
 
 - **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon *[Transport Tycoon Deluxe](https://en.wikipedia.org/wiki/Transport_Tycoon)*. [[source]](https://github.com/OpenTTD/OpenTTD)
 
+- **[Incremental Tycoon Game](https://jpmersuglia.github.io/wilowest/)** - An Open Source Incremental Sim about Managing Comanies and Owning the Stock Market. So far It's only available in Spanish but you can Fork the repo and help to translate to other languages. [[source]](https://github.com/jpmersuglia/Incremental-Tycoon-Companies-Sim)
+
+- **[NarcoOS]** - An Open Source Game about managing an Narco Empire in the US. So far we only have Miami but more to come in the future. [[source]](https://github.com/jpmersuglia/NarcoOS)
+
 ## City-Building games
 
 - **[Akhenaten](https://dalerank.itch.io/akhenaten)** - A strategic city-building game, based on assets and gameplay mechanics from *[Pharaoh + Cleopatra](https://en.wikipedia.org/wiki/Pharaoh_(video_game))* title, where players take on the role of a ruler and mayor of ancient Egyptian civilization. [[source]](https://github.com/dalerank/Akhenaten)

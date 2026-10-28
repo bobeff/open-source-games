@@ -45,6 +45,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[CorsixTH](https://corsixth.com)** - Open source clone of [Theme Hospital](https://en.wikipedia.org/wiki/Theme_Hospital). [[source]](https://github.com/CorsixTH/CorsixTH)
 
+- **[Founder's Way](https://tobeficv.github.io/founders-way)** - 3D browser tycoon where you build your own startup idea, from a garage to a downtown headquarters, under realistic costs and taxes. [[source]](https://github.com/tobeficv/founders-way)
+
 - **[Hurry Curry!](https://hurrycurry.org)** - Cooperative fast-paced multiplayer cooking game. [[source]](https://codeberg.org/hurrycurry/hurrycurry)
 
 - **[OpenLoco](https://openloco.io)** - An open source re-implementation of [Chris Sawyer](https://en.wikipedia.org/wiki/Chris_Sawyer)'s [Locomotion](https://en.wikipedia.org/wiki/Chris_Sawyer%27s_Locomotion). [[source]](https://github.com/OpenLoco/OpenLoco)

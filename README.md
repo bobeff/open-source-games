@@ -27,6 +27,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
 
+- **[Trick or Take](https://trickortake.com)** - Fast-paced casual multiplayer Halloween candy heist game with live spatial audio, playable instantly in browser. [[source]](https://github.com/zicojiao/trick-or-take)
+
 ## Adventure games
 
 - **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - A zombie adventure, escape room, with twists. [[source]](https://github.com/larpon/DeadAscend)

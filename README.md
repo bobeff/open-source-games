@@ -439,6 +439,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 ## Other lists
 
+- **[AI Rebuilds](https://ai-rebuilds.com)**
+
 - **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)**
 
 - **[Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)**

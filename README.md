@@ -313,6 +313,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [[source]](https://github.com/Interkarma/daggerfall-unity)
 
+- **[Daoyou (万界道友)](https://client.daoyou.org)** - Chinese-language browser-based cultivation RPG with turn-based combat, sect progression and companion beast training. Currently free; account registration required. [[source]](https://github.com/ChurchTao/Daoyou)
+
 - **[Exult](https://exult.sourceforge.io)** - A project to recreate [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) for modern operating systems. [[source]](https://github.com/exult/exult)
 
 - **Fallout Community Edition** - A fully working re-implementation of [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game)). [[source]](https://github.com/alexbatalov/fallout1-ce)

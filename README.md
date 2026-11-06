@@ -415,6 +415,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Athena Crisis](https://athenacrisis.com)** - A modern-retro turn-based tactical strategy game. [[source]](https://github.com/nkzw-tech/athena-crisis)
 
+- **[axis-allies-ai](https://hayneian000.github.io/axis-allies-ai)** - Axis & Allies-style strategy game played in the browser on two maps (a 1942 world map and a smaller America free-for-all), with hot-seat multiplayer and AI seats driven by LLMs using your own API key. [[source]](https://github.com/hayneian000/axis-allies-ai)
+
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 
 - **[fheroes2](https://ihhub.github.io/fheroes2)** - A recreation of [Heroes of Might and Magic II](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) game engine. [[source]](https://github.com/ihhub/fheroes2)

@@ -359,6 +359,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **Abyss Engine** - Clean-room reimplementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II), written in C. [[source]](https://github.com/AbyssEngine/AbyssEngine)
 
+- **[d2d](https://psi29a.github.io/d2decomped)** - A re-implementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II): Lord of Destruction 1.14d in C++, traced from the original game.exe; needs the original game files. [[source]](https://github.com/psi29a/d2decomped)
+
 - **[DevilutionX](https://devilutionx.com/)** - A port of [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)) and [Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [[source]](https://github.com/diasurgical/devilutionX)
 
 - **[Freeablo](https://freeablo.org)** - A work-in-progress free and open-source replacement for the [Diablo I](https://en.wikipedia.org/wiki/Diablo_(video_game)) engine. [[source]](https://github.com/wheybags/freeablo)

@@ -59,7 +59,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Citybound](https://aeplay.org/citybound)** - A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals. [[source]](https://github.com/citybound/citybound)
 
-- **[Cytopia](https://cytopia.itch.io/cytopia)** - A free, open source retro pixel-art city building game. [[source]](https://github.com/CytopiaTeam/Cytopia)
+- **[Cytopia](https://github.com/CytopiaTeam/Cytopia/releases)** - A free, open source retro pixel-art city building game. [[source]](https://github.com/CytopiaTeam/Cytopia)
 
 - **Egregoria** - Egregoria is an indie city builder, mostly inspired by *[Cities: Skylines](https://en.wikipedia.org/wiki/Cities:_Skylines)*. [[source]](https://github.com/Uriopass/Egregoria)
 

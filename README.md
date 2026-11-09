@@ -415,6 +415,8 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Athena Crisis](https://athenacrisis.com)** - A modern-retro turn-based tactical strategy game. [[source]](https://github.com/nkzw-tech/athena-crisis)
 
+- **[Brass Pawn](https://brasspawn.com)** - An offline chess tactics, positional judgement, and endgame trainer powered by on-device Stockfish 18 and Reckless engines. [[source]](https://github.com/minchopm/chess-trainer)
+
 - **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
 
 - **[fheroes2](https://ihhub.github.io/fheroes2)** - A recreation of [Heroes of Might and Magic II](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) game engine. [[source]](https://github.com/ihhub/fheroes2)

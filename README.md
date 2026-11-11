@@ -212,6 +212,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[Dust Racing 2D](https://github.com/juzzlin/DustRacing2D)** - A traditional top-down car racing game including a level editor. [[source]](https://github.com/cflavio/yorg)
 
+- **[LibreCorsa](https://librecorsa.org)** - A motorsport simulator that runs in the browser, with 500 Hz vehicle physics, wet weather, AI races and online multiplayer. [[source]](https://github.com/KhazP/librecorsa)
+
 - **[ManiaDrive](http://maniadrive.raydium.org)** - A free clone of [TrackMania](https://en.wikipedia.org/wiki/TrackMania), the great game from [Nadéo](https://en.wikipedia.org/wiki/Nadeo) studio. [[source]](http://maniadrive.raydium.org/index.php?downloads=yes) **Engine: [Raydium](https://raydium.org)** [[source]](https://raydium.org/data.php)
 
 - **[Rigs of Rods](https://www.rigsofrods.org)** -  An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [[source]](https://github.com/RigsOfRods/rigs-of-rods) **Engine: [OGRE](https://www.ogre3d.org)** [[source]](https://github.com/OGRECave) **UI: [Dear ImGui](https://www.dearimgui.com)** [[source]](https://github.com/ocornut/imgui)

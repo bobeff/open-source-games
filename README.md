@@ -198,6 +198,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **Super Mario 64** - A full decompilation of [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64). [[source]](https://github.com/n64decomp/sm64)
 
+- **[SuperTux](https://www.supertux.org)** - SuperTux is a jump'n'run game with strong inspiration from the Super Mario Bros. games for the various Nintendo platforms. [[source]](https://github.com/SuperTux/supertux)
+
 - **[VVVVVV](https://thelettervsixtim.es/)** - [[source]](https://github.com/TerryCavanagh/VVVVVV)
 
 ## Puzzle games

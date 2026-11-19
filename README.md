@@ -47,6 +47,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Hurry Curry!](https://hurrycurry.org)** - Cooperative fast-paced multiplayer cooking game. [[source]](https://codeberg.org/hurrycurry/hurrycurry)
 
+- **[OpenBeach](https://openbeach.app)** - An open-source engine re-implementation of *[Beach Life](https://en.wikipedia.org/wiki/Beach_Life)* (*Virtual Resort: Spring Break*) running on desktop and in the browser via WebAssembly. [[source]](https://github.com/h4570/openbeach)
+
 - **[OpenLoco](https://openloco.io)** - An open source re-implementation of [Chris Sawyer](https://en.wikipedia.org/wiki/Chris_Sawyer)'s [Locomotion](https://en.wikipedia.org/wiki/Chris_Sawyer%27s_Locomotion). [[source]](https://github.com/OpenLoco/OpenLoco)
 
 - **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of *[RollerCoaster Tycoon 2](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2)*. [[source]](https://github.com/OpenRCT2/OpenRCT2)

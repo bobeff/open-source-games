@@ -244,6 +244,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **Freeserf.net** - Аn authentic remake of the game [The Settlers I](https://en.wikipedia.org/wiki/The_Settlers) by [BlueByte](https://en.wikipedia.org/wiki/Ubisoft_Blue_Byte). [[source]](https://github.com/Pyrdacor/freeserf.net)
 
+- **[Game of Crowns](https://github.com/off-grid-ai/game-of-crowns/releases/latest)** - A medieval strategy game where you start as a king with no allies and win seven great houses to your side, by marching your host against them or by winning them as friends. [[source]](https://github.com/off-grid-ai/game-of-crowns)
+
 - **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper). [[source]](https://github.com/dkfans/keeperfx)
 
 - **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)

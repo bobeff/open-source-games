@@ -204,6 +204,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
+- **[Lantern Links](https://webgame.fun/game/lantern-links)** - Light-routing puzzle: rotate tiles to carry light from a glowing core to every lantern, with endless procedurally generated levels. [[source]](https://github.com/ShahriarSaeik/lantern-links)
+
 - **Portal64** - A demake (remake for an older platform) of [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) for the Nintendo 64. [[source]](https://github.com/mwpenny/portal64-still-alive)
 
 - **[Whatajong](https://whatajong.com)** - [[source]](https://github.com/masylum/whatajong)

@@ -455,4 +455,6 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Open Source Game Clones](https://osgameclones.com)**
 
+- **[Open Web Arcade](https://openwebarcade.com)**
+
 - **[Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)**

@@ -210,6 +210,8 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 
 ## Racing games
 
+- **[DRIG](https://github.com/PipeKnight/drig-race-driver)** - A Rust and Bevy reimplementation of Race Driver: GRID (2008) for Windows, Linux, and Apple Silicon macOS. Requires the original PC game data. [[source]](https://github.com/PipeKnight/drig-race-driver)
+
 - **[Dust Racing 2D](https://github.com/juzzlin/DustRacing2D)** - A traditional top-down car racing game including a level editor. [[source]](https://github.com/cflavio/yorg)
 
 - **[ManiaDrive](http://maniadrive.raydium.org)** - A free clone of [TrackMania](https://en.wikipedia.org/wiki/TrackMania), the great game from [Nadéo](https://en.wikipedia.org/wiki/Nadeo) studio. [[source]](http://maniadrive.raydium.org/index.php?downloads=yes) **Engine: [Raydium](https://raydium.org)** [[source]](https://raydium.org/data.php)
